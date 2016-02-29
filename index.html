@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+<div class="page-heading">
+  <h3>
+    Beyond Città Studi <br>
+    Campus e Controcampus <br>
+    XXI Triennale Esposizione Internazionale Milano 2016
+  </h3>
+</div>
+
+<div class="intro_text">
+  <p>La mostra propone progetti e ricerche che coinvolgono il Politecnico di Milano: da Campus Sostenibile - in collaborazione con l’Università Statale - alla recente proposta di Renzo Piano, dagli esiti del Workshop Internazionale MIAW 2016 ai progetti del concorso per studenti Atmospheres 2016.</p>
+  <p>In parallelo, Ultra/Beyond Città Studi dedica uno sguardo partecipato e condiviso verso il futuro dei campus del Politecnico di Milano e di Città Studi, coinvolgendo studenti e cittadini a prendere parte a una serie di contest di mappatura ricerca e creazione che sfruttano la potenza collaborativa dei Social Media, gli strumenti attualmente più adatti alla comunicazione e condivisione delle conoscenze. </p>
+</div>
+
+  <h3 class="page-heading">Contests</h3>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.from | date: "%b %-d, %Y" }}</span> > <span class="post-meta">{{ post.to | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+</div>
