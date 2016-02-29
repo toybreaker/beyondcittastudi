@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 10px solid $grey-color-dark;
+    border-top: 10px solid $brand-color;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -119,7 +119,7 @@
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
     @include media-query($on-laptop) {margin: 0 3rem;}
-    @include media-query($on-palm) {margin: 0 25vw;}
+    @include media-query($on-palm) {margin: 0 15vw;}
 
 }
 
