@@ -14,8 +14,8 @@ Il contest va di pari passo con Beyond Città Studi (4 Aprile – 8 Maggio), un
 
 ## Come partecipare
 
-Il contest è aperto a tutti.
-Chi desideri partecipare al contest #mappingcittàstudi dovrà scattare una o più immagini del quartiere Città Studi e condividerle su Instagram utilizzando i 2 tag seguenti:
+Il contest è aperto a tutti. Scattare una o più immagini del quartiere Città Studi e condividile su Instagram utilizzando:
+
 - #imaginecittastudi
 
 

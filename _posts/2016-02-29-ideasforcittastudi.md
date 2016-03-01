@@ -10,16 +10,13 @@ categories: contest
 Il contest va di pari passo con Beyond Città Studi (4 Aprile – 8 Maggio), una delle tre mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale di Milano, fino al 12 Settembre presso il Politecnico di Milano.
 
 ## Come partecipare a #ideasforcittastudi
-Il contest è aperto a tutti.
-Chi desideri partecipare al contest #ideasforcittàstudi dovrà caricare una o più immagini del quartiere Città Studi elaborate in occasioni di esami workshop esercitazioni o della tesi e condividerle su Instagram utilizzando almeno due hastags:
+Il contest è aperto a tutti. Carica una o più immagini del quartiere Città Studi elaborate in occasioni di esami, workshop, esercitazioni o della tesi e condividile su Instagram utilizzando almeno due hastags:
 
 - 1 **#ideasforcittastudi**
 
-- 2 **#vianomenumero** (o #nomedificio ) un tag che riporta il nome della via e, possibilmente, il numero civico di dove è stata scattata la foto (es: #viabonardi10, #viaceloria40, #viaceloria,...)
+- 2 **#vianomenumero** (o #nomedificio) un tag che riporta il nome della via e, possibilmente, il numero civico di dove è stata scattata la foto (es: #viabonardi10, #viaceloria40, #viaceloria,...)
 
-Chi non avesse un account Instagram potrà spedire le singole immagini/video via email (usando gli hashtag forniti dallo specifico contest nel nome dei file). In questo caso, bisogna inserire un terzo hastag:
-- 3 #nomecognomeautore
-
+Chi non avesse un account Instagram potrà spedire singole immagini/video via email (metti nel campo _subject_ della mail 3 hashtags: #ideasforcittastudi #vianomenumero #nomecognomeautore)
 
 Nei commenti che accompagnano l’immagine, è importante specificare eventuali altre persone coinvolte nel progetto, eventuale professore/tutor di riferimento, anno di produzione.
 
