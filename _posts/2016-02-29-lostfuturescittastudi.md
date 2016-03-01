@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "#lostfuturescittàstudi"
+title:  "#lostfuturescittastudi"
 from: 2016-03-01
 to: 2016-06-15
 categories: contest
 ---
 
-#mappingcittàstudi è il primo di una serie di contest promossi dal Politecnico di Milano in occasione della XXI Triennale Esposizione Internazionale Milano 2016. E’ un invito a fotografare e condividere su Instagram edifici, angoli, vie, spazi aperti del quartiere Città Studi, con l’intento di generare una mappa fotografica, viva e reale, della zona.
+#lostfuturescittastudi è l'ultimo di una serie di contest promossi dal Politecnico di Milano in occasione della XXI Triennale Esposizione Internazionale Milano 2016. E’ un invito a fotografare e condividere su Instagram edifici, angoli, vie, spazi aperti del quartiere Città Studi, con l’intento di generare una mappa fotografica, viva e reale, della zona.
 
 Il contest va di pari passo con Beyond Città Studi (4 Aprile – 8 Maggio), una delle tre mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
 
@@ -14,8 +14,8 @@ Il contest va di pari passo con Beyond Città Studi (4 Aprile – 8 Maggio), un
 
 Il contest è aperto a tutti.
 Chi desideri partecipare al contest #mappingcittàstudi dovrà scattare una o più immagini del quartiere Città Studi e condividerle su Instagram utilizzando i 2 tag seguenti:
-- #mappingcittàstudi (oppure #mappingcittastudi)
-- un tag con riferimento a via e, possibilmente, numero in cui è stata scattata la foto (es: #viabonardi10, #viaceloria40, #viaceloria,...)
+- #lostfuturescittastudi
+
 
 ## Durata del contest
 
