@@ -35,6 +35,19 @@ _In dettaglio, i contest:_
 
 è il contest dedicato alla crowd collection di immagini e video prodotti da studenti e docenti del Politecnico di Milano su Città Studi e sul Campus Leonardo. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo-Archivio di Città Studi a Milano. Partecipazione via Instagram o via eMail (usando gli hashtag forniti dallo specifico contest nel nome dei file e aggiungendo un terzo hashtag: #nomecognomeautore).
 
+#imaginecittàstudi
+---
+(30/04-15/06)
+
+è il contest dedicato a stimolare la creazione di immaginari e scenari per il futuro di Città Studi e dei Campus POLIMI e UNIMI a partire dai “panoramas” ricostruiti grazie al precedente contest. Studenti, docenti, semplici cittadini, sono invitati a immaginare una trasformazione creativa e suggestiva dei luoghi più mappati di Città Studi per costruire un futuro diverso da quello iscritto nelle politiche urbane della città. Partecipazione via Instagram o via eMail (usando gli hashtag forniti dallo specifico contest nel nome dei file e aggiungendo un terzo hashtag: #nomecognomeautore).
+
+#lostfuturescittàstudi
+---
+(1/03-15/06)
+
+è il contest dedicato alla raccolta e condivisione di documenti d’archivio che presentino materiali relativi a progetti su Città Studi che non sono mai diventati realtà. Futuri mai realizzati di cui resta traccia visiva solo nella documentazione cartografica che siamo riusciti a conservare. Partecipazione esclusivamente via eMail (usando gli hashtag forniti dallo specifico contest nel nome dei file e aggiungendo un terzo hashtag: #nomecognomeautore).
+
+Tutti i materiali saranno resi disponibili on-line in tempo reale sul sitoweb e presentati in mostra per andare poi a costruire il primo database collettivo e partecipato del Museo-Archivio [digitale] di Città Studi, una piattaforma di studio e di riflessione sulle trasformazioni recenti e passate, realizzate o solo immaginate, dei luoghi e degli usi di quest’ambito urbano dalla connotazione così forte, compresso tra l’espansione ad est e la concentrazione dei poli universitari milanesi per oltre un secolo.
 
 Contatti: beyondcittastudi@polimi.it
 Profilo Instagram @beyondcittastudi
