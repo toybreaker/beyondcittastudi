@@ -23,14 +23,14 @@ In parallelo, Ultra/Beyond Città Studi dedica uno sguardo partecipato e condivi
 
 _In dettaglio, i contest:_
 
-[#mappingcittastudi](http://beyondcittastudi.org//contest/mappingcittastudi/)
+[#mappingcittastudi](http://beyondcittastudi.org/contest/mappingcittastudi/)
 ---
 (01/03-14/04)
 
 è il primo dei contest promossi dal Politecnico di Milano in occasione della XXI Triennale di Milano. E’ un invito a fotografare e condividere su Instagram edifici, angoli, vie, spazi aperti del quartiere Città Studi, con l’intento di generare una mappa fotografica, viva e reale, della zona. Le foto saranno utilizzate per ricostruire i “#panoramas” di Città Studi così come emersi dal mapping. Partecipazione esclusivamente via Instagram.
 
 
-[#ideasforcittàstudi](http://beyondcittastudi.org//contest/ideasforcittàstudi/)
+[#ideasforcittàstudi](http://beyondcittastudi.org/contest/ideasforcittàstudi/)
 ---
 (1/03-14/04)
 
