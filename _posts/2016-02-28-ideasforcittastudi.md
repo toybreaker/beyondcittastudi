@@ -20,7 +20,6 @@ Il contest è aperto a tutti. Carica una o più immagini del quartiere Città
 
 Chi non avesse un account Instagram potrà spedire singole immagini/video via email (metti nel campo _subject_ della mail 3 hashtags: #ideasforcittastudi #vianomenumero #nomecognomeautore)
 
-
 Nei commenti che accompagnano l’immagine, è importante specificare eventuali altre persone coinvolte nel progetto, eventuale professore/tutor di riferimento, anno di produzione.
 
 ## Durata del contest
