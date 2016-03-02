@@ -16,7 +16,7 @@ Il contest è aperto a tutti. Carica una o più immagini del quartiere Città
 
 - 1 **#ideasforcittastudi**
 
-- 2 **#vianomenumero** (o #nomedificio) un tag che riporta il nome della via e, possibilmente, il numero civico di dove è stata scattata la foto (es: #viabonardi10, #viaceloria40, #viaceloria,...)
+- 2 **#vianomenumero** (o **#nomedificio**) un tag che riporta il nome della via e, possibilmente, il numero civico di dove è stata scattata la foto (es: #viabonardi10, #viaceloria40, #viaceloria,...)
 
 Chi non avesse un account Instagram potrà spedire singole immagini/video via email (metti nel campo _subject_ della mail 3 hashtags: #ideasforcittastudi #vianomenumero #nomecognomeautore)
 
