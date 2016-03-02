@@ -4,7 +4,10 @@ title:  "#ideasforcittastudi"
 from: 2016-03-01
 to: 2016-04-14
 categories: contest
+pdf: regolamento_ideasforcittastudi.pdf
 ---
+
+
 ![ideasforcittastudi qr]({{site.baseurl}}/assets/i/beyondcittastudi_org-contest-ideasforcittastudi.png)
 
 
