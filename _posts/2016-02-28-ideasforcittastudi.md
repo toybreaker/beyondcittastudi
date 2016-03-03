@@ -63,4 +63,4 @@ Il contest non è in nessun modo sponsorizzato, appoggiato o amministrato da In
 La partecipazione al contest fotografico implica la piena accettazione del presente regolamento.
 
 Contatti:
-[socialmedia@polimi.it](mailto:socialmedia@polimi.it)
+[](mailto:)

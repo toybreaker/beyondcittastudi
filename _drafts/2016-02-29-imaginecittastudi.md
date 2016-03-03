@@ -40,4 +40,4 @@ Partecipando al Contest Fotografico #mappingcittastudi, l’autore dichiara di e
 Gli autori sono responsabili del contenuto delle immagini inviate e sollevano pertanto gli organizzatori e Instagram da ogni eventuale conseguenza inclusa la richiesta di danni morali e materiali.
 Il contest non è in nessun modo sponsorizzato, appoggiato o amministrato da Instagram né associato a Instagram.
 La partecipazione al contest fotografico implica la piena accettazione del presente regolamento.
-Contatti: socialmedia@polimi.it
+Contatti: 

@@ -4,7 +4,7 @@ title:  "#lostfuturescittastudi"
 from: 2016-03-01
 to: 2016-06-15
 categories: contest
-draft: 
+draft:
 ---
 
 #lostfuturescittastudi è l'ultimo di una serie di contest promossi dal Politecnico di Milano in occasione della XXI Triennale Esposizione Internazionale Milano 2016. E’ un invito a fotografare e condividere su Instagram edifici, angoli, vie, spazi aperti del quartiere Città Studi, con l’intento di generare una mappa fotografica, viva e reale, della zona.
@@ -39,4 +39,4 @@ Partecipando al Contest Fotografico #mappingcittastudi, l’autore dichiara di e
 Gli autori sono responsabili del contenuto delle immagini inviate e sollevano pertanto gli organizzatori e Instagram da ogni eventuale conseguenza inclusa la richiesta di danni morali e materiali.
 Il contest non è in nessun modo sponsorizzato, appoggiato o amministrato da Instagram né associato a Instagram.
 La partecipazione al contest fotografico implica la piena accettazione del presente regolamento.
-Contatti: socialmedia@polimi.it
+Contatti: 
