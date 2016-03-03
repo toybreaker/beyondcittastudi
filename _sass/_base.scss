@@ -120,21 +120,38 @@ a {
  * Blockquotes
  */
 blockquote {
-    // color: $grey-color;
-    // border-left: 4px solid $grey-color-light;
-    color: red;
-    border-left: 4px solid red;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+  // margin-top: $spacing-unit / 2 ;
+  // margin-bottom: $spacing-unit / 2 ;
+  margin-left: $spacing-unit / 2;
+  color: red;
+  border-left: 4px solid red;
+  padding: $spacing-unit / 2;
+  font-size: 18px;
+  line-height: 1.25;
+  font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+  > :last-child {
+      margin-bottom: 0;
+  }
+  &.black {
+    color: black;
+    border-left: 4px solid black;
+  }
+  &.right {
+    text-align: right;
+    border-left: 0 none;
+    border-right: 4px solid black;
+    padding-right: $spacing-unit / 2;
+    margin-right: $spacing-unit / 2;
+  }
+
 }
 
 
+blockquote > * {
+  font-weight: lighter;
+  letter-spacing: normal;
+}
 
 /**
  * Code formatting
