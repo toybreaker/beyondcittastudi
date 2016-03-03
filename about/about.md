@@ -42,5 +42,10 @@ In parallelo, Ultra/Beyond Città Studi dedica uno sguardo partecipato e condivi
 è il contest dedicato alla crowd collection di immagini e video prodotti da studenti e docenti del Politecnico di Milano su Città Studi e sul Campus Leonardo. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo-Archivio di Città Studi a Milano. Partecipazione via Instagram o via eMail (usando gli hashtag forniti dallo specifico contest nel nome dei file e aggiungendo un terzo hashtag: #nomecognomeautore).
 
 
-Contatti: beyondcittastudi@polimi.it
-Profilo Instagram @beyondcittastudi
+Contatti: [beyond-cittastudi@polimi.it](mailto:beyond-cittastudi@polimi.it)
+
+Vedi foto postate con [#mappingcittastudi](https://www.instagram.com/explore/tags/mappingcittastudi) su Instagram
+
+Vedi foto postate con [#ideasforcittastudi ](https://www.instagram.com/explore/tags/ideasforcittastudi) su Instagram
+
+Profilo Instagram: @beyondcittastudi
