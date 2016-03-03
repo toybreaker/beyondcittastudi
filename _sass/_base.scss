@@ -1,4 +1,19 @@
 /**
+ * Clearfix
+ */
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+
+
+
+/**
  * Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
@@ -14,9 +29,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 
-html {
-
- }
+strong { font-weight: $strong_weight; }
 body {
   font: $font;
   font-size: $base-font-size;
@@ -117,43 +130,6 @@ a {
 
 
 /**
- * Blockquotes
- */
-blockquote {
-  // margin-top: $spacing-unit / 2 ;
-  // margin-bottom: $spacing-unit / 2 ;
-  margin-left: $spacing-unit / 2;
-  color: red;
-  border-left: 4px solid red;
-  padding: $spacing-unit / 2;
-  font-size: 18px;
-  line-height: 1.25;
-  font-style: italic;
-
-  > :last-child {
-      margin-bottom: 0;
-  }
-  &.black {
-    color: black;
-    border-left: 4px solid black;
-  }
-  &.right {
-    text-align: right;
-    border-left: 0 none;
-    border-right: 4px solid black;
-    padding-right: $spacing-unit / 2;
-    margin-right: $spacing-unit / 2;
-  }
-
-}
-
-
-blockquote > * {
-  font-weight: lighter;
-  letter-spacing: normal;
-}
-
-/**
  * Code formatting
  */
 pre,
@@ -193,7 +169,7 @@ pre {
     padding-left: $spacing-unit;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
+    @include media( "screen", ">bp1Width")  {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
@@ -202,18 +178,6 @@ pre {
 }
 
 
-
-/**
- * Clearfix
- */
-%clearfix {
-
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-}
 
 
 

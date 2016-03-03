@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-#### **Ultra/Beyond Città Studi**  
-
-### **XXI Triennale di Milano e Politecnico di Milano**  
-
 A cura di Alessandro Rocca, Gennaro Postiglione e Michela Bassanelli  
 
 #### **Politecnico di Milano**
