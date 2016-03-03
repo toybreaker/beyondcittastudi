@@ -7,7 +7,7 @@
 
 # Site settings
 title: Beyond Città Studi
-email: beyond-cittastudi@polimi.it
+email: socialmedia@polimi.it
 description: > # this means to ignore newlines until "baseurl:"
   Beyond Città Studi (4 Aprile – 8 Maggio), mostra del ciclo Campus e Controcampus, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
 baseurl: "" # the subpath of your site, e.g. /blog
