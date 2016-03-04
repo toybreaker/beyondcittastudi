@@ -61,6 +61,3 @@ Gli autori sono responsabili del contenuto delle immagini inviate e sollevano pe
 Il contest non è in nessun modo sponsorizzato, appoggiato o amministrato da Instagram né associato a Instagram.
 
 La partecipazione al contest fotografico implica la piena accettazione del presente regolamento.
-
-Contatti:
-[](mailto:)

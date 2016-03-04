@@ -4,19 +4,13 @@ title: About
 permalink: /about/
 ---
 
+
+### **Politecnico di Milano** • **Spazio mostre Guido Nardi**  - _via Ampére 2_ -  **4 aprile > 8 maggio 2016**
 A cura di Alessandro Rocca, Gennaro Postiglione e Michela Bassanelli  
-
-#### **Politecnico di Milano**
-
-##### **Spazio mostre Guido Nardi**  
-
-via Ampére 2  
-
-### 4 aprile – 8 maggio 2016
 
 Il tema dei campus universitari è al centro del dibattito sul futuro di Milano. Si tratta di una sfida per il nuovo assetto della città nella sua dimensione metropolitana, un’occasione di rigenerazione architettonica e urbana che potrà dare forma a nuovi, rinnovati, importanti sistemi di spazi collettivi.
 
-La mostra Ultra/Beyond Città Studi (4 Aprile – 8 Maggio) è una delle tre  mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale di Milano, fino al 12 Settembre presso il Politecnico di Milano.
+La mostra Ultra/Beyond Città Studi è una delle tre  mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale di Milano, fino al 12 Settembre presso il Politecnico di Milano.
 
 La mostra propone progetti e ricerche che coinvolgono il Politecnico di Milano: da Campus Sostenibile - in collaborazione con l’Università Statale - a la recente proposta di Renzo Piano, dagli esiti del Workshop Internazionale MIAW 2016 ai progetti del concorso per studenti Atmospheres 2016.
 

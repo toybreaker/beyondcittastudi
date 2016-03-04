@@ -36,11 +36,11 @@ exclude:
 github: toybreaker
 instagram:
   # instuff
-  userId: ''
-  clientId: ''
-  accessToken: ''
+  userId: #''
+  clientId: #''
+  accessToken: #''
   profile: 'beyondcittastudi'
 google:
   plus: #username
-  analytics: UA-74710021-1
-  verify: #
+  analytics: 'UA-74710021-1'
+  verify: 'GH4oVo3DLVE-iOQdlqwaeVHCmb40aOrqCHdSNxS_dC8'
