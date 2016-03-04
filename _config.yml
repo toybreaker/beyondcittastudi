@@ -34,13 +34,13 @@ exclude:
 
 # ship crew personas
 github: toybreaker
-instagram: #
+instagram:
+  # instuff
+  userId: ''
+  clientId: ''
+  accessToken: ''
+  profile: 'beyondcittastudi'
 google:
   plus: #username
-  analytics: #
+  analytics: UA-74710021-1
   verify: #
-
-# instuff
-userId: ''
-clientId: ''
-accessToken: ''

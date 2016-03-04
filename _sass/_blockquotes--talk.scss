@@ -1,6 +1,7 @@
 //Blockquotes chat
 
 blockquote {
+  background-color: rgba(100,100,100,.5);
   font-size: 16px;
   @include media( "screen", ">minWidth") { font-size: 18px; }
   @include media( "screen", ">bp1Width") { font-size: 19px; }

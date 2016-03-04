@@ -29,6 +29,11 @@
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
+        {% for my_post in site.posts %}
+          {% if my_post.title %}
+          <a class="page-link contest" href="{{ my_post.url | prepend: site.baseurl }}">{{ my_post.title }}</a>
+          {% endif %}
+        {% endfor %}
       </div>
     </nav>
 

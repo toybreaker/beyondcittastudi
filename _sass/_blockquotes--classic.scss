@@ -1,11 +1,19 @@
 // Blockquotes - classic
 
+$border_width: 5px;
+$border_width_big: 10px;
+
+
 blockquote {
   margin-left: $spacing-unit / 2;
-  color: red;
-  border-left: 4px solid red;
-  padding: $spacing-unit / 2;
-  font-size: 18px;
+  color: black;
+  border-left: $border_width solid black;
+  padding: $spacing-unit / 4;
+  font-size: 15px;
+  @include media( "screen", ">maxWidth") {
+    font-size: 18px;
+    border-left: $border_width_big solid black;
+  }
   line-height: 1.25;
   font-style: italic;
 
@@ -13,13 +21,19 @@ blockquote {
       margin-bottom: 0;
   }
   &.black {
-    color: black;
-    border-left: 4px solid black;
+    color: red;
+    border-left: $border_width solid red;
+    @include media( "screen", ">maxWidth") {
+      border-left: $border_width_big solid red;
+    }
   }
   &.right {
     text-align: right;
     border-left: 0 none;
-    border-right: 4px solid black;
+    border-right: $border_width solid red;
+    @include media( "screen", ">maxWidth") {
+      border-right: $border_width_big solid red;
+    }
     padding-right: $spacing-unit / 2;
     margin-right: $spacing-unit / 2;
   }
