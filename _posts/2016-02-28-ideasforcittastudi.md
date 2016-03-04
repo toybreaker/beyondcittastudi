@@ -12,7 +12,7 @@ pdf: regolamento_ideasforcittastudi.pdf
 
 
 #ideasforcittastudi (1/03-14/04) è il contest dedicato alla crowd collection di immagini e video prodotti da studenti e docenti del Politecnico di Milano su Città Studi e sul Campus Leonardo. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo- Archivio di Città Studi a Milano.
-Il contest va di pari passo con Beyond Città Studi (4 Aprile – 8 Maggio), una delle tre mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale di Milano, fino al 12 Settembre presso il Politecnico di Milano.
+Il contest va di pari passo con Ultra/Beyond Città Studi (4 Aprile – 8 Maggio), una delle tre mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale di Milano, fino al 12 Settembre presso il Politecnico di Milano.
 
 ## Come partecipare a #ideasforcittastudi
 Il contest è aperto a tutti. Carica una o più immagini del quartiere Città Studi elaborate in occasioni di esami, workshop, esercitazioni o della tesi e condividile su Instagram utilizzando almeno due hastags:

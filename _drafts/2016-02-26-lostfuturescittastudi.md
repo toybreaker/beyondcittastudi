@@ -9,7 +9,7 @@ draft:
 
 #lostfuturescittastudi è l'ultimo di una serie di contest promossi dal Politecnico di Milano in occasione della XXI Triennale Esposizione Internazionale Milano 2016. E’ un invito a fotografare e condividere su Instagram edifici, angoli, vie, spazi aperti del quartiere Città Studi, con l’intento di generare una mappa fotografica, viva e reale, della zona.
 
-Il contest va di pari passo con Beyond Città Studi (4 Aprile – 8 Maggio), una delle tre mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
+Il contest va di pari passo con Ultra/Beyond Città Studi (4 Aprile – 8 Maggio), una delle tre mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
 
 ## Come partecipare
 
