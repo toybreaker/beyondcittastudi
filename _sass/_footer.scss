@@ -21,7 +21,7 @@
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
     @include media( "screen", "<bp1Width") {margin: 0 15vw;}
-    @include media( "screen", ">maxWidth") {margin: 0 3rem;}
+    @include media( "screen", ">bp1Width") {margin: 0 3rem;}
 }
 
 .footer-col {

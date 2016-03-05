@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 
-### **Politecnico di Milano** • **Spazio mostre Guido Nardi**  - _via Ampére 2_ -  **4 aprile > 8 maggio 2016**
+### **Politecnico di Milano**  
+**Spazio mostre Guido Nardi**  - _via Ampére 2_ -  **4 aprile > 8 maggio 2016**
+
 A cura di Alessandro Rocca, Gennaro Postiglione e Michela Bassanelli  
 
 Il tema dei campus universitari è al centro del dibattito sul futuro di Milano. Si tratta di una sfida per il nuovo assetto della città nella sua dimensione metropolitana, un’occasione di rigenerazione architettonica e urbana che potrà dare forma a nuovi, rinnovati, importanti sistemi di spazi collettivi.

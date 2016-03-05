@@ -1,0 +1,44 @@
+// Blockquotes - with svg icon in html include
+blockquote {
+  margin: 2rem 0;
+  color: black;
+  line-height: 1.25;
+  font-style: italic;
+  font-size: 16px;
+  @include media( "screen", ">maxWidth") {font-size: 18px;}
+
+  display: -webkit-box;
+  display: flex;
+
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+
+  -webkit-box-align: center;
+  -ms-grid-row-align: center;
+  align-items: center;
+
+
+  > * {
+    font-weight: lighter;
+    letter-spacing: normal;
+    -webkit-box-ordinal-group: 2;
+    order: 1;
+  }
+
+  svg {
+    min-width: 3.5rem;
+    height: 3.5rem;
+    padding: 0 1rem 0 0;
+  }
+
+  &.even {
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    svg {padding: 0 0 0 1rem;}
+    h3 {
+      -webkit-box-ordinal-group: 0;
+      order: -1;
+      text-align: right;
+    }
+  }
+}

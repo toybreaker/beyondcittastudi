@@ -3,38 +3,18 @@ layout: default
 ---
 
 <div class="home">
-  <div class="page-heading">
 
-  </div>
 
-  <div class="intro_text">
 
     <img src="assets/i/mapping_with_phone.jpg" alt="crowdsourcing images" />
 
 
-    <blockquote cite="http://beyondcittastudi.org" class="red left">
-      <h3>Mappatura, Ricerca e Creazione... crowdsourced!</h3>
-    </blockquote>
+  <div class="wrapper">
 
-    <blockquote cite="http://beyondcittastudi.org" class="black right">
-      <h3>Fatta con social media, gambe e telefono!</h3>
-    </blockquote>
+    <h1 class="page-heading">Contests</h1>
 
-    <blockquote cite="http://beyondcittastudi.org" class="red left">
-      <h3>Il futuro dei campus ha bisogno di te!</h3>
-    </blockquote>
-
-    <blockquote cite="http://beyondcittastudi.org" class="black right">
-      <h3>Facciamo una mappa fotografica aggiornata di Città Studi, oggi... adesso.
-      </h3>
-    </blockquote>
-
-  </div>
-
-  <h3 class="page-heading">Contests</h3>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
+    <ul class="post-list">
+      {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.from | date: "%b %-d, %Y" }}</span> > <span class="post-meta">{{ post.to | date: "%b %-d, %Y" }}</span>
 
@@ -42,8 +22,33 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
-    {% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>
 
+    <div class="intro_text">
+
+      <blockquote cite="http://beyondcittastudi.org" class="odd">
+        {% include svg/quote_Q_left.svg %}
+        <h3>Mappatura, Ricerca e Creazione... crowdsourced!</h3>
+      </blockquote>
+
+      <blockquote cite="http://beyondcittastudi.org" class="even">
+        <h3>Fatta con social media, gambe e telefono!</h3>
+        {% include svg/quote_Q_right.svg %}
+      </blockquote>
+
+      <blockquote cite="http://beyondcittastudi.org" class="odd">
+        {% include svg/quote_Q_left.svg %}
+        <h3>Il futuro dei campus ha bisogno di te!</h3>
+      </blockquote>
+
+      <blockquote cite="http://beyondcittastudi.org" class="even">
+        <h3>Facciamo una mappa fotografica aggiornata di Città Studi, oggi... adesso.</h3>
+        {% include svg/quote_Q_right.svg %}
+      </blockquote>
+
+    </div>
+
+  </div>
 
 </div>

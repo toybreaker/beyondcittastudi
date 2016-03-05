@@ -1,65 +1,88 @@
 //post
 .post-list {
-    margin-left: 0;
-    list-style: none;
+  margin-left: 0;
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+  list-style: none;
+  text-align: center;
 
-    > li {
-        margin-bottom: $spacing-unit;
+  > li { margin-bottom: $spacing-unit; }
+
+  a {
+    font-size: 2rem;
+    @include media( "screen", ">minWidth") {
+      font-size: 5vw;
     }
+  }
 }
 
 .post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
+  font-size: $small-font-size;
+  color: $grey-color;
 }
 
 .post-link {
-    display: block;
-    font-size: 24px;
+  display: block;
+  font-size: 24px;
 }
 
-
-
-/**
- * Posts
- */
 .post-header {
-    margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit;
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
 
-    @include media( "screen", ">maxWidth") {
-        font-size: 36px;
-    }
+  @include media( "screen", ">maxWidth") {
+      font-size: 36px;
+  }
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit;
 
-    h2 {
-        font-size: 32px;
-        @include media( "screen", ">maxWidth") {font-size: 28px;}
-    }
+  h2 {
+      font-size: 32px;
+      @include media( "screen", ">maxWidth") {font-size: 28px;}
+  }
 
-    h3 {
-        font-size: 26px;
+  h3 {
+      font-size: 26px;
 
-        @include media( "screen", ">maxWidth") { font-size: 22px;}
-    }
+      @include media( "screen", ">maxWidth") { font-size: 22px;}
+  }
 
-    h4 {
-        font-size: 20px;
+  h4 {
+      font-size: 20px;
 
-        @include media( "screen", ">maxWidth") { font-size: 18px;}
-    }
+      @include media( "screen", ">maxWidth") { font-size: 18px;}
+  }
 
-    p img {
-      max-width: 140px;
-      padding:.33rem 1rem 1rem 1rem;
-      float: right;
-    }
+  p img {
+    max-width: 140px;
+    padding:.33rem 1rem 1rem 1rem;
+    float: right;
+  }
+}
+
+.post_footer {
+  margin: 2rem 0;
+  display: -webkit-box;
+  display: flex;
+
+  -webkit-box-align: center;
+  -ms-grid-row-align: center;
+  align-items: flex-start;
+
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+
+  span {}
+  svg {
+    width: 2rem;
+    height: 2rem;
+    padding-right: 1rem;
+  }
 }

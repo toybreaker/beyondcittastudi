@@ -1,18 +1,34 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.from | date: "%b %-d, %Y" }} > {{ page.to | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+<div class="page-content">
+  <div class="wrapper">
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+        <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.from | date: "%b %-d, %Y" }} > {{ page.to | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+      </header>
+
+      <div class="post-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+
+      <div class="post_footer download">
+        {% include svg/pdf.svg %}
+        <span>
+          Download: <a target="_blank" href="{{page.pdf_link}}">PDF del regolamento</a>
+        </span>
+      </div>
+
+      <div class="post_footer go_to_insta">
+        {% include svg/external_link.svg %}
+        <span>
+          Vedi foto postate con <a target="_blank" href="{{page.insta_feed_link}}">{{page.title}}</a> su Instagram
+        </span>
+      </div>
+
+    </article>
   </div>
-  <div class="download">
-    Download: <a href="{{site.baseurl}}/assets/pdf/{{page.pdf}}">PDF del regolamento</a>
-  </div>
-
-</article>
+</div>

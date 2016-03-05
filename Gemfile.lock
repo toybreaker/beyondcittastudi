@@ -22,9 +22,9 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.9.10)
     gemoji (2.1.0)
-    github-pages (53)
+    github-pages (54)
       RedCloth (= 4.2.9)
-      github-pages-health-check (= 1.0.1)
+      github-pages-health-check (= 1.1.0)
       jekyll (= 3.0.3)
       jekyll-coffeescript (= 1.0.1)
       jekyll-feed (= 0.4.0)
@@ -44,7 +44,7 @@ GEM
       redcarpet (= 3.3.3)
       rouge (= 1.10.1)
       terminal-table (~> 1.4)
-    github-pages-health-check (1.0.1)
+    github-pages-health-check (1.1.0)
       addressable (~> 2.3)
       net-dns (~> 0.8)
       octokit (~> 4.0)
@@ -136,7 +136,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 53)
+  github-pages (= 54)
   html-proofer
   jekyll-feed
   jekyll-sitemap

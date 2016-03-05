@@ -2,15 +2,13 @@
 ---
 @charset "utf-8";
 
-
-
-// Our variables
+// Variables
 $font: caption;
-$base-font-size:   18px;
-$base-line-height: 1.5;
-$small-font-size:  $base-font-size * 0.875;
-$base-font-weight: 300;
-$strong_weight: 400;
+$base-font-size:    18px;
+$base-line-height:  1.5;
+$small-font-size:   $base-font-size * 0.875;
+$base-font-weight:  300;
+$strong_weight:     400;
 
 $spacing-unit:     40px;
 
@@ -26,15 +24,14 @@ $grey-color-dark:  darken($grey-color, 25%);
 $content-width:    1000px;
 
 
-// Import partials from `sass_dir` (defaults to `_sass`)
+// Import partials
 @import
   "cmq",
   "base",
-  "blockquotes--classic",
+  "blockquotes",
   "header",
   "footer",
   "post",
   "page",
-  "layout",
-  "syntax-highlighting"
+  "layout"
 ;
