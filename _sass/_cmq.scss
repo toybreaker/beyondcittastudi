@@ -15,10 +15,7 @@
 //  @include media( "screen", ">maxWidth") {font-size: 1.2rem;}
 //  @include media( "retina" ) {background: yellow;};
 
-//// Predefined Break-points
-$mediaMinWidth: 480px;
-$mediaBp1Width: 800px;
-$mediaMaxWidth: 1260px;
+
 
 @function translate-media-condition($c) {
   $condMap: (

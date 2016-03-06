@@ -2,30 +2,36 @@
 layout: default
 ---
 
-<div class="page-content">
+<div class="page_content post_page layout_post">
   <div class="wrapper">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-        <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.from | date: "%b %-d, %Y" }} > {{ page.to | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+      <header class="post_header">
+        <h1 class="post_title" itemprop="name headline">{{ page.title }}</h1>
+        <p class="post_meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.from | date: "%b %-d, %Y" }} > {{ page.to | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
       </header>
 
-      <div class="post-content" itemprop="articleBody">
+      <div class="post_content" itemprop="articleBody">
         {{ content }}
+
+        {% capture premi %}{% include editables/premi.md %}{% endcapture %}
+        {{ premi | markdownify }}
+
+        {% capture giuria %}{% include editables/giuria.md %}{% endcapture %}
+        {{ giuria | markdownify }}
       </div>
 
       <div class="post_footer download">
         {% include svg/pdf.svg %}
         <span>
-          Download: <a target="_blank" href="{{page.pdf_link}}">PDF del regolamento</a>
+          <a target="_blank" href="{{page.pdf_link}}">PDF del regolamento</a>
         </span>
       </div>
 
       <div class="post_footer go_to_insta">
         {% include svg/external_link.svg %}
         <span>
-          Vedi foto postate con <a target="_blank" href="{{page.insta_feed_link}}">{{page.title}}</a> su Instagram
+          Vedi foto <a target="_blank" href="{{page.insta_feed_link}}">{{page.title}}</a> su Instagram
         </span>
       </div>
 

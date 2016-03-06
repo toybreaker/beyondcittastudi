@@ -3,13 +3,11 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{% if page.title %}{{ page.title }}{% endif %}">
 
     {% include header.html %}
 
-
     {{ content }}
-
 
     {% include footer.html %}
     {% include script_google_analytics.html %}

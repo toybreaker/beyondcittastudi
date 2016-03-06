@@ -2,52 +2,43 @@
 layout: default
 ---
 
+<div class="map_wrap">
+
+  <iframe width="1500" height="2000" border="0" src="http://maps.stamen.com/toner/embed#16/45.4790/9.2283"></iframe>
+
+</div>
+
 <div class="home">
 
-
-
-    <img src="assets/i/mapping_with_phone.jpg" alt="crowdsourcing images" />
-
+  {% include svg/fonok.svg %}
 
   <div class="wrapper">
 
     <h1 class="page-heading">Contests</h1>
 
     <ul class="post-list">
-      {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.from | date: "%b %-d, %Y" }}</span> > <span class="post-meta">{{ post.to | date: "%b %-d, %Y" }}</span>
+    {% for post in site.posts %}
+
+      <li class="{% if post.contest_is %}contest_is_ON{% else %}contest_is_upcoming{% endif %}">
+
+        <span class="post_meta_wrap">
+
+          <span class="post-meta ">{{ post.from | date: "%b %-d, %Y" }}</span> > <span class="post-meta">{{ post.to | date: "%b %-d, %Y" }}</span>
+
+        </span>
 
         <h2>
+
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+
         </h2>
+
       </li>
-      {% endfor %}
+
+    {% endfor %}
     </ul>
 
-    <div class="intro_text">
-
-      <blockquote cite="http://beyondcittastudi.org" class="odd">
-        {% include svg/quote_Q_left.svg %}
-        <h3>Mappatura, Ricerca e Creazione... crowdsourced!</h3>
-      </blockquote>
-
-      <blockquote cite="http://beyondcittastudi.org" class="even">
-        <h3>Fatta con social media, gambe e telefono!</h3>
-        {% include svg/quote_Q_right.svg %}
-      </blockquote>
-
-      <blockquote cite="http://beyondcittastudi.org" class="odd">
-        {% include svg/quote_Q_left.svg %}
-        <h3>Il futuro dei campus ha bisogno di te!</h3>
-      </blockquote>
-
-      <blockquote cite="http://beyondcittastudi.org" class="even">
-        <h3>Facciamo una mappa fotografica aggiornata di Città Studi, oggi... adesso.</h3>
-        {% include svg/quote_Q_right.svg %}
-      </blockquote>
-
-    </div>
+    <!-- {% include quotes.html %} -->
 
   </div>
 

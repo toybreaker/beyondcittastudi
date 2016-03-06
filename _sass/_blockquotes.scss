@@ -1,7 +1,7 @@
 // Blockquotes - with svg icon in html include
 blockquote {
   margin: 2rem 0;
-  color: black;
+  color: $black;
   line-height: 1.25;
   font-style: italic;
   font-size: 16px;
@@ -40,5 +40,17 @@ blockquote {
       order: -1;
       text-align: right;
     }
+  }
+}
+
+.layout_post blockquote {
+  display: block;
+  @include media( "screen", "<minWidth") {width: 100%;}
+  padding-left: $spacing-unit / 2;
+  border-left: 4px solid $grey-color;
+  font-size: 1.2rem;
+  strong, p {
+    display: block;
+    margin:.5rem 0;
   }
 }

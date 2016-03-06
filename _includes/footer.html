@@ -1,26 +1,34 @@
-<footer class="site-footer">
+<footer class="site_footer">
 
   <div class="wrapper">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><img class="qr" src="/assets/i/qr.png" alt="qr code to beyondcittastudi.org" /></li>
-          <li><a href="beyondcittastudi.org">beyondcittastudi.org</a></li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+    <div class="footer_col_wrapper">
+
+      <div class="footer_col footer_col_1">
+        <div class="top_logo">
+          {% include logo-polimi.svg %}
+        </div>
+        <p><strong>{{ site.title }}</strong></p>
+        <p>{{ site.description }}</p>
+        <p>
+          <a href="/about/"><strong>About</strong></a>
+        </p>
+        <p>
+          <a target="_blank" href="http://junglestar.org">Credits</a> 
+        </p>
       </div>
 
-
-
-      <div class="footer-col footer-col-2">
+      <div class="footer_col footer_col_2">
         <img src="/assets/i/XX1T.png" alt="XXI Triennale Esposizione Internazionale Milano 2016" />
         <img src="/assets/svg/triennale.svg" alt="La Triennale di Milano" />
       </div>
 
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+      <div class="footer_col footer_col_3">
+        <ul class="contact_list">
+          <li><img class="qr" src="/assets/i/qr.png" alt="qr code to beyondcittastudi.org" /></li>
+          <li><a href="beyondcittastudi.org">beyondcittastudi.org</a></li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
       </div>
 
     </div>

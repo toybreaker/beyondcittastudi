@@ -7,22 +7,46 @@ $font: caption;
 $base-font-size:    18px;
 $base-line-height:  1.5;
 $small-font-size:   $base-font-size * 0.875;
+
 $base-font-weight:  300;
-$strong_weight:     400;
+$bold_weight:       400;
+$strong_weight:     500;
+$heavy_weight:      700;
 
 $spacing-unit:     40px;
+$top_pad:          10px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      red;
+$brand_color:      yellow;
+$black:            black;
+$white:            white;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+//transparent colors;
+$twhite25:rgba(255,255,255,.25);
+$twhite50:rgba(255,255,255,.5);
+$twhite75:rgba(255,255,255,.75);
+
+$tblack25:rgba(0,0,0,.25);
+$tblack50:rgba(0,0,0,.5);
+$tblack75:rgba(0,0,0,.75);
+
 // Width of the content area
 $content-width:    1000px;
 
+//// cmq Break-points
+$mediaMinWidth: 320px;
+$mediaBp1Width: 600px;
+$mediaMaxWidth: $content-width;
+
+// scalable viewportwidth sized fonts
+$viewport_sized_L: calc(6vw + 7px);
+$viewport_sized_M: calc(6vw + 5px);
+$viewport_sized_S: calc(6vw + 3px);
 
 // Import partials
 @import
