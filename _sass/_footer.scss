@@ -59,8 +59,9 @@
 }
 
 .footer_col_1 {
-  text-align: justify;
+  text-align: left;
   @include media( "screen", ">bp1Width") {
+    text-align: justify;
     min-width: 250px;
     max-width: 350px;
   }
