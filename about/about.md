@@ -3,9 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+###   Ultra/Beyond Città Studi
 
+####  Campus & Controcampus
 
-### **Politecnico di Milano**  
+##### XXI Triennale Esposizione Internazionale Milano 2016
+
+#### **Politecnico di Milano**  
 **Spazio mostre Guido Nardi**  - _via Ampére 2_ -  **4 aprile > 8 maggio 2016**
 
 A cura di Alessandro Rocca, Gennaro Postiglione e Michela Bassanelli  
@@ -58,7 +62,11 @@ Inviamo chiunque ha documentazione storica (da archivi, fondazioni, etc.) sul te
 
 Con #lostfuturescittastudi inviamo chiunque a produrre nuove visioni di Città Studi usando come punto di partenza in nostro  #panoramascittastudi. Dopo la vostra postproduzione vi invitiamo a caricare le immagini direttamente su Instagram. Useremo le vostre immagini per costruire una collezione di nuovi scenari su Città Studi.
 
+
+Real-time
+---
 -----
+
 
 Vedi foto postate con [#mappingcittastudi](https://www.instagram.com/explore/tags/mappingcittastudi) su Instagram
 
