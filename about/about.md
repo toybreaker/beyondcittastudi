@@ -33,7 +33,7 @@ In parallelo, Ultra/Beyond Città Studi dedica uno sguardo partecipato e condivi
 #mappingcittastudi è il primo dei contest promossi dal Politecnico di Milano in occasione della XXI Triennale di Milano. E’ un invito a fotografare e condividere su Instagram edifici, angoli, vie, spazi aperti del quartiere Città Studi, con l’intento di generare una mappa fotografica, viva e reale, della zona. Le foto saranno utilizzate per ricostruire i “#panoramas” di Città Studi così come emersi dal mapping. Partecipazione esclusivamente via Instagram.
 
 
-[#ideasforcittàstudi](/contest/ideasforcittastudi/)
+[#ideasforcittastudi](/contest/ideasforcittastudi/)
 ---
 -----
 
@@ -50,7 +50,7 @@ Inviamo chiunque ha documentazione storica (da archivi, fondazioni, etc.) sul te
 
 (1/03-14/04)
 
-#ideasforcittàstudi è il contest dedicato alla crowd collection di immagini e video prodotti da studenti e docenti del Politecnico di Milano su Città Studi e sul Campus Leonardo. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo-Archivio di Città Studi a Milano. Partecipazione via Instagram o via eMail (usando gli hashtag forniti dallo specifico contest nel nome dei file e aggiungendo un terzo hashtag: #nomecognomeautore).
+#ideasforcittastudi è il contest dedicato alla crowd collection di immagini e video prodotti da studenti e docenti del Politecnico di Milano su Città Studi e sul Campus Leonardo. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo-Archivio di Città Studi a Milano. Partecipazione via Instagram o via eMail (usando gli hashtag forniti dallo specifico contest nel nome dei file e aggiungendo un terzo hashtag: #nomecognomeautore).
 
 
 [#lostfuturescittastudi](/contest/lostfuturescittastudi/)

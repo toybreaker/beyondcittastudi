@@ -17,7 +17,7 @@ contest_is: #
 > **We will use your Imagine to build up a collection of new scenarios on Città Studi.**
 
 
-#imaginecittastudi è l'ultimo di una serie di contest promossi dal Politecnico di Milano in occasione della XXI Triennale Esposizione Internazionale Milano 2016. E’ un invito a produrre nuove visioni di Cittò Studi. Dopo la postproduzione vi inviatiamo a condivederle su Instagram.
+**#imaginecittastudi** è l'ultimo di una serie di contest promossi dal Politecnico di Milano in occasione della XXI Triennale Esposizione Internazionale Milano 2016. E’ un invito a produrre nuove visioni di Cittò Studi. Dopo la postproduzione vi inviatiamo a condivederle su Instagram.
 
 Useremo le vostre immagini per costruire una collezione di nuovi scenari su Città Studi.
 
