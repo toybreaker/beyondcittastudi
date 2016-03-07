@@ -149,12 +149,11 @@
     padding: 0;
   }
   ul {
-    list-style: square inside none!important;
-    margin-left:.5rem;
+    list-style-type: circle!important;
+    margin-left:1.5rem;
 
   }
   li {
-
     font-size: 18px;
 
   }
