@@ -10,4 +10,4 @@ Verranno assegnati tre premi a:
 
 Ai vincitori sarà assegnato un **pass valido per la XXI Triennale** _Esposizione Internazionale Milano 2016_.
 
-Foto selezionate saranno esposte nell’ambito della serie di mostre **Campus e Controcampus**, con citazione dell’autore.
+Foto selezionate saranno esposte nell’ambito della serie di mostre **Campus &amp; Controcampus**, con citazione dell’autore.

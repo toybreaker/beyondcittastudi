@@ -14,7 +14,7 @@ contest_is: on
 
 #‎mappingCittàStudi è un contest fotografico promosso dal Politecnico di Milano: è un invito a fotografare e condividere su Instagram edifici, angoli, vie, spazi aperti del quartiere Città Studi, con l’intento di generare una mappa fotografica, viva e reale, della zona.
 
-Parte di Ultra/Beyond Città Studi, una delle tre mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
+Parte di Ultra/Beyond Città Studi, una delle tre mostre del ciclo Campus &amp; Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
 
 
 ### Partecipare

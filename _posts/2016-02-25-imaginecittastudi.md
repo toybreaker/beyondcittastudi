@@ -21,7 +21,7 @@ contest_is: #
 
 Useremo le vostre immagini per costruire una collezione di nuovi scenari su Città Studi.
 
-Parte di _Ultra/Beyond Città Studi_, una delle tre mostre del ciclo _Campus e Controcampus_, che si terranno, nell’ambito della _XXI Triennale Esposizione Internazionale Milano 2016_, fino al 12 Settembre presso il _Politecnico di Milano_.
+Parte di _Ultra/Beyond Città Studi_, una delle tre mostre del ciclo _Campus &amp; Controcampus_, che si terranno, nell’ambito della _XXI Triennale Esposizione Internazionale Milano 2016_, fino al 12 Settembre presso il _Politecnico di Milano_.
 
 ### Partecipare
 
