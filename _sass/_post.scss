@@ -1,8 +1,8 @@
 //post stuff in index
 .post-list {
   margin-left: 0;
-  margin-top: 3rem;
-  margin-bottom: 5rem;
+  margin-top: 15rem;
+  margin-bottom: 20rem;
   list-style: none;
   text-align: center;
 
@@ -106,7 +106,7 @@
         /* Magic Numbers */
         translate(150px, 80px)
         /* 45 is really 360 - 45 */
-        rotate(315deg);
+        rotate(270deg);
       transform-origin: bottom left;
       display: block;
       min-height: 200px;
@@ -118,6 +118,7 @@
   }
 
   h3 {
+    margin-top: $spacing-unit;
     font-size: 26px;
     @include media( "screen", ">maxWidth") {font-size: 22px;}
   }
@@ -129,8 +130,15 @@
 
   p img {
     max-width: 140px;
-    padding:.33rem 1rem 1rem 1rem;
-    float: right;
+    padding: 0;
+  }
+  ul {
+    list-style-type:none;
+    margin-left:.5rem;
+  }
+  li {
+    font-size: 22px;
+
   }
 }
 

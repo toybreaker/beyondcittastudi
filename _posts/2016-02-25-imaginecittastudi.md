@@ -21,15 +21,15 @@ contest_is: #
 
 Useremo le vostre immagini per costruire una collezione di nuovi scenari su Città Studi.
 
-Parte di Ultra/Beyond Città Studi, una delle tre mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
+Parte di _Ultra/Beyond Città Studi_, una delle tre mostre del ciclo _Campus e Controcampus_, che si terranno, nell’ambito della _XXI Triennale Esposizione Internazionale Milano 2016_, fino al 12 Settembre presso il _Politecnico di Milano_.
 
-## Come partecipare
+### Partecipare
 
-Il contest è aperto a tutti. Scattare una o più immagini del quartiere Città Studi e condividile su Instagram utilizzando:
+Il contest _#imaginecittastudi_ è aperto a tutti. Scattare una o più immagini del quartiere Città Studi e condividile su Instagram utilizzando:
 
 - #imaginecittastudi
 
 
-## Durata del contest
+### Durata
 
-Il contest è aperto dal giorno 1 marzo 2016, saranno considerate per la valutazione da parte della giuria solo le immagini che entro le 12.00 del 14 aprile 2016 presenteranno i tag specificati.
+Il contest _#imaginecittastudi_ è aperto dal giorno 1 marzo 2016, saranno considerate per la valutazione da parte della giuria solo le immagini che entro le 12.00 del 14 aprile 2016 presenteranno i tag specificati.

@@ -1,4 +1,4 @@
-## Premi
+### Premi
 
 Verranno assegnati tre premi a:
 
@@ -8,6 +8,6 @@ Verranno assegnati tre premi a:
 
 - autore della **foto che ottiene più like via Instagram**.
 
-Ai vincitori sarà assegnato un **pass valido per la XXI Triennale** Esposizione Internazionale Milano 2016.
+Ai vincitori sarà assegnato un **pass valido per la XXI Triennale** _Esposizione Internazionale Milano 2016_.
 
 Foto selezionate saranno esposte nell’ambito della serie di mostre **Campus e Controcampus**, con citazione dell’autore.
