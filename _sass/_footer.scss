@@ -5,7 +5,10 @@
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
   padding-top: $spacing-unit * 2;
-  a {color: $black;}
+  a {
+    color: $black;
+    border-bottom: 1px solid $grey-color;
+  }
   p {margin-bottom: $spacing-unit/8; }
 }
 
@@ -56,6 +59,10 @@
     margin-bottom: $spacing-unit ;
     padding-left: $spacing-unit / 2;
     padding-right: $spacing-unit / 2;
+    em { border-bottom: 1px solid $grey-color; }
+    p strong {
+      display: block;
+      font-size: 110%;}
 }
 
 .footer_col_1 {
