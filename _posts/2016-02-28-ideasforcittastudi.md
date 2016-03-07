@@ -12,6 +12,10 @@ contest_is: on
 
 ![ideasforcittastudi qr]({{site.baseurl}}/assets/i/beyondcittastudi_org-contest-ideasforcittastudi.png)
 
+
+tl;dr
+---
+
 >**We invite anyone who has already worked with projects, design, etc. on Città Studi to share on Instagram her/his scenarios (no technical drawings!).**
 >**We will use your Ideas to build up a collection of possibilities on Città Studi.**
 

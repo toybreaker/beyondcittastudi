@@ -12,6 +12,9 @@ contest_is: #
 ![imaginecittastudi qr]({{site.baseurl}}/assets/i/beyondcittastudi_org-contest-imaginecittastudi.png)
 
 
+tl;dr
+---
+
 > **We invite anyone to produce new visions of Città Studi using as a starting point our #panoramascittastudi.**
 > **After your postproduction of images we invite you to share them on Instagram.**
 > **We will use your Imagine to build up a collection of new scenarios on Città Studi.**

@@ -44,11 +44,18 @@ blockquote {
 }
 
 .layout_post blockquote {
-  display: block;
-  @include media( "screen", "<minWidth") {width: 100%;}
-  padding-left: $spacing-unit / 2;
-  border-left: 4px solid $grey-color;
   font-size: 1.2rem;
+  display: block;
+  @include media( "screen", "<minWidth") {
+    width: 100%;
+    border-left: 4px solid $grey-color;
+    padding-left: $spacing-unit / 2;
+  }
+  @include media( "screen", ">bp1Width") {
+    padding-left: $spacing-unit * 3;
+    min-height: 140px;
+  }
+
   strong, p {
     display: block;
     margin:.5rem 0;

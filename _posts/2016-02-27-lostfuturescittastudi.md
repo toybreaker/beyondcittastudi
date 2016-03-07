@@ -9,8 +9,12 @@ insta_feed_link: https://www.instagram.com/explore/tags/lostfuturescittastudi
 contest_is: on
 ---
 
+
+tl;dr
+---
+
 > **We invite anyone who has historical documentation (from archives, foundations, etc.) on projects and ideas for Città Studi to share**
->**Send images to [beyond-cittastudi@polimi.it](mailto:beyond-cittastudi@polimi.it).**
+>**Send images to [beyond-cittastudi@polimi.it](mailto:beyond-cittastudi@polimi.it)**
 
 Con **#lostfuturescittastudi** inviamo chiunque a produrre nuove visioni di Città Studi usando come punto di partenza in nostro #panoramascittastudi. Dopo la vostra postproduzione vi invitiamo a caricare le immagini direttamente su Instagram. Useremo le vostre immagini per costruire una collezione di nuovi scenari su Città Studi.
 

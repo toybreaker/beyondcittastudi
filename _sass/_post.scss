@@ -102,7 +102,7 @@
   @include media( "screen", "<bp1Width") {
     transform:
       /* Magic Numbers */
-      translate(190px, 20px)
+      translate(200px, 20px)
       /* 45 is really 360 - 45 */
       rotate(-90deg);
     transform-origin: bottom left;
@@ -121,7 +121,7 @@
     @include media( "screen", "<bp1Width") {
       transform:
         /* Magic Numbers */
-        translate(190px, 0px)
+        translate(200px, 0px)
         rotate(270deg);
       transform-origin: bottom left;
       display: block;
@@ -188,4 +188,26 @@
     background-color: $brand_color;
     border-bottom: 1px solid $brand_color;
   }
+}
+
+#tldr {
+  font-size: 1 rem; line-height: 2;
+  border: 2px solid $black;
+  text-align: center;
+  padding: 1rem;
+  max-width: 110px;
+  min-width: 110px;
+  min-height: 100px;
+  transform:
+  translate(0, 0);
+  @include media( "screen", ">bp1Width") {
+    transform:
+    translate(0px, 240px)
+    rotate(270deg);
+    transform-origin: top left;
+    text-align: center;
+
+  }
+
+
 }

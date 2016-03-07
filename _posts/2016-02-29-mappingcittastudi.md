@@ -13,8 +13,11 @@ contest_is: on
 ![mappingcittastudi qr]({{site.baseurl}}/assets/i/beyondcittastudi_org-contest-mappingcittastudi.png)
 
 
+tl;dr
+---
+
 > **We invite each of you to share on Instagram at least 4 pics per day using your smart phone to catch up places of Città Studi in your everyday life:**
-> **when arriving or leaving, while going to eat to work to play etc., while hanging around, etc.**
+> **When arriving or leaving, while going to eat to work to play etc., while hanging out, etc.**
 > **We will use your pics to build up a different map of Città Studi**
 
 
