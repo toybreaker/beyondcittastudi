@@ -73,7 +73,17 @@ Help
 
 21st Century. Design After Design [Download PDF](http://21triennale.org//press-img/pdf/XX1T_21st_century_design_after_design.pdf)
 
+
+Links
+---
+-----
+
 XX1Triennale [website](http://21triennale.org/it/)
+
+Triennale di Milano [website](http://www.triennale.org/)
+
+Triennale di Milano [Calendario Eventi](http://www.triennale.org/it/calendario/calendario-eventi)
+ - [Events Calendar](http://www.triennale.org/en/calendar/events-calendar)
 
 
 Real-time
