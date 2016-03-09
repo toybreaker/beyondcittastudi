@@ -4,7 +4,7 @@ title:  "#imaginecittastudi"
 from: 2016-04-30
 to: 2016-06-15
 categories: contest
-pdf_link: http://www.polimi.it/uploads/media/Regolamento_imaginecittastudi.pdf
+pdf_link: https://drive.google.com/file/d/0By69YP7JrLWyVVZsNVFycjBqNGc/view?usp=sharing
 insta_feed_link: https://www.instagram.com/explore/tags/imaginecittastudi
 contest_is: #
 ---

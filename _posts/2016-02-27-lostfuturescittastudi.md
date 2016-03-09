@@ -4,7 +4,7 @@ title:  "#lostfuturescittastudi"
 from: 2016-03-01
 to: 2016-06-15
 categories: contest
-pdf_link: http://www.polimi.it/uploads/media/Regolamento_lostfuturescittastudi.pdf
+pdf_link: https://drive.google.com/file/d/0By69YP7JrLWyUmJLODAzazdrWGc/view?usp=sharing
 insta_feed_link: https://www.instagram.com/explore/tags/lostfuturescittastudi
 contest_is: on
 ---

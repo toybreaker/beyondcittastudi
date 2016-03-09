@@ -28,12 +28,14 @@ layout: default
         </span>
       </div>
 
-      <div class="post_footer go_to_help">
-        {% include svg/hand.svg %}
+      {%if page.pdf_link_eng%}
+      <div class="post_footer download">
+        {% include svg/pdf.svg %}
         <span>
-          Quick-start  <a href="/tips/">Help & Tips </a>
+          <a target="_blank" href="{{page.pdf_link_eng}}">PDF english</a>
         </span>
       </div>
+      {%endif%}
 
       <div class="post_footer go_to_insta">
         {% include svg/external_link.svg %}

@@ -52,7 +52,7 @@ A cura di Alessandro Rocca, Gennaro Postiglione e Michela Bassanelli
 
 (1/03-14/04)
 
-**#ideasforcittastudi è il contest dedicato alla crowd collection di immagini e video prodotti da studenti e docenti del Politecnico di Milano su Città Studi e sul Campus Leonardo**. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo-Archivio di Città Studi a Milano. Partecipazione via Instagram o via eMail (usando gli hashtag forniti dallo specifico contest nel nome dei file e aggiungendo un terzo hashtag: #nomecognomeautore).
+**#ideasforcittastudi è il contest dedicato alla crowd collection di immagini e video prodotti da studenti, docenti e personale tecnico amministrativo del Politecnico di Milano su Città Studi e sul Campus Leonardo**. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo-Archivio di Città Studi a Milano. Partecipazione via Instagram o via eMail (usando gli hashtag forniti dallo specifico contest nel nome dei file e aggiungendo un terzo hashtag: #nomecognomeautore).
 
 
 [#lostfuturescittastudi](/contest/lostfuturescittastudi/)

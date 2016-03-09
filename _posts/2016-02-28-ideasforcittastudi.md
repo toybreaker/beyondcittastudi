@@ -4,7 +4,7 @@ title:  "#ideasforcittastudi"
 from: 2016-03-01
 to: 2016-04-14
 categories: contest
-pdf_link: http://www.polimi.it/uploads/media/Regolamento_ideasforcittastudi.pdf
+pdf_link: https://drive.google.com/file/d/0By69YP7JrLWyeDdJMmpTQjh6bUk/view?usp=sharing
 insta_feed_link: https://www.instagram.com/explore/tags/ideasforcittastudi
 contest_is: on
 ---
@@ -19,7 +19,7 @@ tl;dr
 >**We invite anyone who has already worked with projects, design, etc. on Città Studi to share on Instagram her/his scenarios (no technical drawings!).**
 >**We will use your Ideas to build up a collection of possibilities on Città Studi.**
 
-**#ideasforcittastudi**  è il contest dedicato alla crowd collection di immagini e video prodotti da studenti e docenti del Politecnico di Milano su Città Studi e sul Campus Leonardo. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo - Archivio di Città Studi a Milano.
+**#ideasforcittastudi**  è il contest dedicato alla crowd collection di immagini e video prodotti da studenti, docenti e personale tecnico amministrativo del Politecnico di Milano su Città Studi e sul Campus Leonardo. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo - Archivio di Città Studi a Milano.
 
 Parte di _Ultra/Beyond Città Studi_, una delle tre mostre del ciclo _Campus &amp; Controcampus_, che si terranno, nell’ambito della _XXI Triennale Esposizione Internazionale Milano 2016_, fino al 12 Settembre presso il _Politecnico di Milano_.
 
