@@ -64,7 +64,6 @@ A cura di Alessandro Rocca, Gennaro Postiglione e Michela Bassanelli
 
 Con **#lostfuturescittastudi inviamo chiunque a produrre nuove visioni di Città Studi usando come punto di partenza il nostro  #panoramascittastudi.** Dopo la vostra postproduzione vi invitiamo a caricare le immagini direttamente su Instagram. Useremo le vostre immagini per costruire una collezione di nuovi scenari su Città Studi.
 
------
 
 
 Help
