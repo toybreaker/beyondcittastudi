@@ -60,7 +60,7 @@ Inviamo chiunque ha documentazione storica (da archivi, fondazioni, etc.) sul te
 
 (30/04-15/06)
 
-Con #lostfuturescittastudi inviamo chiunque a produrre nuove visioni di Città Studi usando come punto di partenza in nostro  #panoramascittastudi. Dopo la vostra postproduzione vi invitiamo a caricare le immagini direttamente su Instagram. Useremo le vostre immagini per costruire una collezione di nuovi scenari su Città Studi.
+Con #lostfuturescittastudi inviamo chiunque a produrre nuove visioni di Città Studi usando come punto di partenza il nostro  #panoramascittastudi. Dopo la vostra postproduzione vi invitiamo a caricare le immagini direttamente su Instagram. Useremo le vostre immagini per costruire una collezione di nuovi scenari su Città Studi.
 
 
 Real-time
