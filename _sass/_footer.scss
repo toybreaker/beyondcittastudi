@@ -59,10 +59,14 @@
     margin-bottom: $spacing-unit ;
     padding-left: $spacing-unit / 2;
     padding-right: $spacing-unit / 2;
-    em { border-bottom: 1px solid $grey-color; }
+    .about_title { border-bottom: 1px solid $grey-color; }
     p strong {
       display: block;
-      font-size: 110%;}
+      font-size: 110%;
+    }
+    p a, .about_title {
+      line-height: 48px;
+    }
 }
 
 .footer_col_1 {
