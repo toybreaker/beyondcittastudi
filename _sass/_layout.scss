@@ -46,3 +46,11 @@
   border-left: 6vw solid transparent;
   border-right: 6vw solid transparent;
 }
+
+.open_in_new_window::after {
+  content: " ↗";
+}
+
+.contact_list .open_in_new_window::after {
+  content: "";
+}

@@ -4,11 +4,11 @@ title: Tips
 permalink: /tips/
 ---
 
-_Quick-start advices help._
+_Help tips to get your quick-started._
 
-### Joining our contest
+### Joining our contests
 
-- to join contest simply comment an Instagram image with our [contest hashtags](/).
+- to join simply comment an Instagram image with our [contest hashtags](/).
 - no need for any registration.
 - do need an Instagram account. But hey, you can freely setup one in a minute!
 
@@ -29,11 +29,13 @@ No phone? no problems, let's hack:
 - install [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android&hl=en) and if your on Mac also [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en) apps in it.
 - on Mac, you might need to put your images on your Google Drive for BlueStack to reach them.
 - use [BlueStack post to Instagram, (tut video here)](https://youtu.be/PYKVkfTFUAQ) On mac get your images from your Google Drive.
+- read more  [here](http://www.makeuseof.com/tag/create-instagram-account-upload-photos-without-mobile-device/).
 
 
 ### Shooting
 
- - Just get a shot? Or get a good shot?!
+ - Just get a shot?
+ - Or get a good shot?!
  - Understand when the spot is best lit. Try different hours in the day.
  - Frame subject with no useless elements around it.
  - Try at least 3 different angles. Post the one that speaks louder.
