@@ -27,7 +27,9 @@ tl;dr
 Parte di Ultra/Beyond Città Studi, una delle tre mostre del ciclo Campus &amp; Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
 
 
-### Partecipare
+Partecipare
+---
+-----
 
 Il contest è aperto a tutti. Scatta una o più immagini del quartiere Città Studi e condividile su Instagram utilizzando almeno due hastags (nei commenti oppure nella didascalia):
 
@@ -36,6 +38,8 @@ Il contest è aperto a tutti. Scatta una o più immagini del quartiere Città
 - **#vianomenumero**  
 un tag che riporta il nome della via e, possibilmente, il numero civico di dove è stata scattata la foto (es: #viabonardi10, #viaceloria40, #viaceloria,...)
 
-### Durata
+Durata
+---
+-----
 
 Il contest è aperto dal giorno **1 marzo 2016**, saranno considerate per la valutazione da parte della giuria solo le immagini che entro le 12.00 del **14 aprile 2016** presenteranno i tag specificati.

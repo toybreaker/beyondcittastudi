@@ -23,7 +23,9 @@ tl;dr
 
 Parte di _Ultra/Beyond Città Studi_, una delle tre mostre del ciclo _Campus &amp; Controcampus_, che si terranno, nell’ambito della _XXI Triennale Esposizione Internazionale Milano 2016_, fino al 12 Settembre presso il _Politecnico di Milano_.
 
-### Partecipare
+Partecipare
+---
+-----
 
 Il contest è aperto a tutti. Carica una o più immagini del quartiere Città Studi elaborate in occasioni di esami, workshop, esercitazioni o della tesi e condividile su Instagram utilizzando almeno due hastags (puoi metterle nei commenti oppure nella didascalia):
 
@@ -35,6 +37,8 @@ Il contest è aperto a tutti. Carica una o più immagini del quartiere Città
 
 Nei commenti che accompagnano l’immagine, è importante specificare eventuali altre persone coinvolte nel progetto, eventuale professore/tutor di riferimento, anno di produzione.
 
-### Durata
+Durata
+---
+-----
 
 Il contest _#ideasforcittastudi_ è aperto dal giorno 1 marzo 2016, saranno considerate per la valutazione da parte della giuria solo le immagini che entro le 12.00 del 14 aprile 2016 presenteranno i tag specificati.

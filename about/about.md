@@ -3,24 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
-###   Ultra/Beyond Città Studi
+<h1 class="big">Ultra/Beyond Città Studi<br />  
+<small>XXI Triennale di Milano e Politecnico di Milano 2016</small>
+</h1>
 
-####  Campus & Controcampus
+A cura di Alessandro Rocca, Gennaro Postiglione e Michela Bassanelli
 
-##### **XXI Triennale Esposizione Internazionale Milano 2016**
+**Politecnico di Milano**  
+**Spazio mostre Guido Nardi**  
+_via Ampére 2_   
 
-#### **Politecnico di Milano**  
-**Spazio mostre Guido Nardi**  - _via Ampére 2_ -  **4 aprile > 8 maggio 2016**
-
-A cura di Alessandro Rocca, Gennaro Postiglione e Michela Bassanelli  
+**4 aprile > 8 maggio 2016**
 
 **Il tema dei campus universitari è al centro del dibattito sul futuro di Milano.** Si tratta di una sfida per il nuovo assetto della città nella sua dimensione metropolitana, un’occasione di rigenerazione architettonica e urbana che potrà dare forma a nuovi, rinnovati, importanti sistemi di spazi collettivi.
 
 **La mostra Ultra/Beyond Città Studi è una delle tre [mostre](http://21triennale.org/it/mostre) del ciclo Campus &amp; Controcampus**, che si terranno, nell’ambito della XXI Triennale di Milano, fino al 12 Settembre presso il Politecnico di Milano.
 
-**La mostra propone progetti e ricerche che coinvolgono il Politecnico di Milano**: da Campus Sostenibile - in collaborazione con l’Università Statale - a la recente proposta di Renzo Piano, dagli esiti del Workshop Internazionale MIAW 2016 ai progetti del concorso per studenti Atmospheres 2016.
 
-**In parallelo, Ultra/Beyond Città Studi dedica uno sguardo partecipato e condiviso verso il futuro dei campus del Politecnico di Milano e di Città Studi**, coinvolgendo studenti e cittadini a prendere parte a una serie di contest di mappatura ricerca e creazione che sfruttano la potenza collaborativa dei Social Media, gli strumenti attualmente più adatti alla comunicazione e condivisione delle conoscenze.
 
 <br>
 
@@ -45,7 +44,7 @@ A cura di Alessandro Rocca, Gennaro Postiglione e Michela Bassanelli
 
 
 
-[#imaginecittastudi](contest/imaginecittastudi/)
+[#imaginecittastudi](/contest/imaginecittastudi/)
 ---
 -----
 
@@ -66,6 +65,16 @@ Con **#lostfuturescittastudi inviamo chiunque a produrre nuove visioni di Città
 
 
 
+<br>
+
+Cartella Stampa
+---
+-----
+PDF [Cartella Stampa Download ](https://drive.google.com/file/d/0By69YP7JrLWya1lIUE04RkxOZDA/view?usp=sharing)
+
+
+<br>
+
 Help
 ---
 -----
@@ -73,6 +82,7 @@ Help
 
 21st Century. Design After Design [Download PDF](http://21triennale.org//press-img/pdf/XX1T_21st_century_design_after_design.pdf)
 
+<br>
 
 Links
 ---
@@ -85,6 +95,7 @@ Triennale di Milano [website](http://www.triennale.org/)
 Triennale di Milano [Calendario Eventi](http://www.triennale.org/it/calendario/calendario-eventi)
  - [Events Calendar](http://www.triennale.org/en/calendar/events-calendar)
 
+<br>
 
 Real-time
 ---

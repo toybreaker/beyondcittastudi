@@ -1,3 +1,14 @@
+Vincitori
+---
+-----
+
+I nominativi dei vincitori saranno pubblicati tramite il profilo Instagram, nei canali social media e web del **Politecnico di Milano**.
+Gli organizzatori si riservano il diritto di non considerare fotografie ritenute offensive o non appropriate.
+
+Giuria
+---
+-----
+
 La giuria è composta da:
 
 - **Gennaro Postiglione**, Coordinatore della Laurea Magistrale in Architettura, Scuola Architettura Urbanistica Ingegneria delle Costruzioni, Politecnico di Milano;
@@ -6,8 +17,10 @@ La giuria è composta da:
 
 - **Davide Spallazzo**, Scuola del Design, Politecnico di Milano
 
-I nominativi dei vincitori saranno pubblicati tramite il profilo Instagram, nei canali social media e web del **Politecnico di Milano**.
-Gli organizzatori si riservano il diritto di non considerare fotografie ritenute offensive o non appropriate.
+
+Details
+---
+-----
 
 Partecipando ai Contests _Ultra/Beyond Città Studi_, l’autore dichiara di essere titolare esclusivo e legittimo di tutti i diritti di autore e sfruttamento, anche economico, di ciascuna fotografia, quindi possedere ogni diritto di riproduzione.
 
