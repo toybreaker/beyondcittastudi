@@ -3,8 +3,12 @@ Crowdsourcing Architecture Contest  website
 
 Developed for [Politecnico di Milano](http://www.polimi.it/en/english-version/)
 
+## Web design & development
+- rokma [portfolio](http://rokma.com)
+- Gennaro Postiglione [lablog](http://www.lablog.org.uk/)
 
-## Website credits:
+
+## Credits:
 
 - open source website by [Jungle ★ Star](http://junglestar.org)
 
