@@ -8,7 +8,7 @@ Developed for [Politecnico di Milano](http://www.polimi.it/en/english-version/)
 
 - open source website by [Jungle ★ Star](http://junglestar.org)
 
-- [Smashicons](http://smashicons.com/) via [the noun project](https://thenounproject.com) by [Oliviu sStoian](https://thenounproject.com/oliviustoian/)
+- [Smashicons](http://smashicons.com/) via [the noun project](https://thenounproject.com) by [Oliviu Stoian](https://thenounproject.com/oliviustoian/)
 
 - free [ Open Street Map  ](https://www.openstreetmap.org) vector map
 
