@@ -54,3 +54,25 @@
 .contact_list .open_in_new_window::after {
   content: "";
 }
+
+.sucked_shots {
+  display: -webkit-box;
+  display: flex;
+
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+}
+
+.go_away_link {
+  width: 100%;
+  display: block;
+  float: left;
+  margin: 0;
+  margin-bottom: .5rem;
+  position: relative;
+
+  img {
+    width: 100%;
+  }
+}

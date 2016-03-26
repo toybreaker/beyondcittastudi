@@ -45,16 +45,18 @@ Working with Instagram photos
 Handy list of tools to work like a pro with crowdsourced photos.
 
 - Quickly save other people photos while browsing.   
-  Download [this Chrome extension](https://chrome.google.com/webstore/detail/instagram-image-downloade/camemifjemdmbcdfeoehdppgdlnpapfa) or this [other one](https://chrome.google.com/webstore/detail/dinstagram/neppgmfjfhgdcbophaohghbgmfbinanl).
+  Download [this Chrome extension](https://chrome.google.com/webstore/detail/instagram-image-downloade/camemifjemdmbcdfeoehdppgdlnpapfa) or this [other one](https://chrome.google.com/webstore/detail/dinstagram/neppgmfjfhgdcbophaohghbgmfbinanl).  
+  _Note:_ You need to be logged in Instagram for it to work.
+
 
 - Use [IFTTT](https://ifttt.com/).   
   Automagically copy Instagram photos to your Google Drive.  
   We made a few Ready-To-Use [IFTTT Recipes](https://ifttt.com/p/rokma/shared):
-  - [IFTTT Recipe for #mappingcittastudi](https://ifttt.com/recipes/401483-save-mappingcittastudi-shots-to-your-drive).
-  - [IFTTT Recipe for #ideasforcittastudi](https://ifttt.com/recipes/401489-save-ideasforcittastudi-shots-to-your-drive).  
-  - [IFTTT Recipe for #lostfuturescittastudi](https://ifttt.com/recipes/401491-save-lostfuturescittastudi-shots-to-your-drive).  
-  - [IFTTT Recipe for #imaginecittastudi](https://ifttt.com/recipes/401494-save-imaginecittastudi-shots-to-your-drive).  
-_Note:_ It wont grab already posted shots, only new ones, so hurry up, setup your Recipe now.
+  - [#mappingcittastudi IFTTT Recipe ](https://ifttt.com/recipes/401483-save-mappingcittastudi-shots-to-your-drive)
+  - [#ideasforcittastudi IFTTT Recipe ](https://ifttt.com/recipes/401489-save-ideasforcittastudi-shots-to-your-drive)
+  - [#lostfuturescittastudi IFTTT Recipe ](https://ifttt.com/recipes/401491-save-lostfuturescittastudi-shots-to-your-drive)  
+  - [#imaginecittastudi IFTTT Recipe ](https://ifttt.com/recipes/401494-save-imaginecittastudi-shots-to-your-drive)  
+_Note:_ Recipes wont grab already posted shots, only new ones. Hurry up, setup your Recipe now...
 
 
 
