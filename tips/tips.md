@@ -49,7 +49,7 @@ Handy list of tools to work like a pro with crowdsourced photos.
 
 - Use [IFTTT](https://ifttt.com/).   
   Automagically copy Instagram photos to your Google Drive.  
-  We made a few Ready-To-Use [IFTTT Recipes](https://ifttt.com/myrecipes/published):
+  We made a few Ready-To-Use [IFTTT Recipes](https://ifttt.com/p/rokma/shared):
   - [IFTTT Recipe for #mappingcittastudi](https://ifttt.com/recipes/401483-save-mappingcittastudi-shots-to-your-drive).
   - [IFTTT Recipe for #ideasforcittastudi](https://ifttt.com/recipes/401489-save-ideasforcittastudi-shots-to-your-drive).  
   - [IFTTT Recipe for #lostfuturescittastudi](https://ifttt.com/recipes/401491-save-lostfuturescittastudi-shots-to-your-drive).  
