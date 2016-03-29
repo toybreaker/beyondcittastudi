@@ -46,7 +46,9 @@ Handy list of tools to work like a pro with crowdsourced photos.
 
 - Quickly save other people photos while browsing.   
   Download [this Chrome extension](https://chrome.google.com/webstore/detail/instagram-image-downloade/camemifjemdmbcdfeoehdppgdlnpapfa) or this [other one](https://chrome.google.com/webstore/detail/dinstagram/neppgmfjfhgdcbophaohghbgmfbinanl).  
-  _Note:_ You need to be logged in Instagram for it to work.
+  _Note:_ Go to Instagram and log in first, then extension will work.
+
+- Save all hashtag photos with [4K Stogram](https://www.4kdownload.com/products/product-stogram) (PC, Mac and Linux)
 
 
 - Use [IFTTT](https://ifttt.com/).   
@@ -55,8 +57,10 @@ Handy list of tools to work like a pro with crowdsourced photos.
   - [#mappingcittastudi IFTTT Recipe ](https://ifttt.com/recipes/401483-save-mappingcittastudi-shots-to-your-drive)
   - [#ideasforcittastudi IFTTT Recipe ](https://ifttt.com/recipes/401489-save-ideasforcittastudi-shots-to-your-drive)
   - [#lostfuturescittastudi IFTTT Recipe ](https://ifttt.com/recipes/401491-save-lostfuturescittastudi-shots-to-your-drive)  
-  - [#imaginecittastudi IFTTT Recipe ](https://ifttt.com/recipes/401494-save-imaginecittastudi-shots-to-your-drive)  
-_Note:_ Recipes wont grab already posted shots, only new ones. Hurry up, setup your Recipe now...
+  - [#imaginecittastudi IFTTT Recipe ](https://ifttt.com/recipes/401494-save-imaginecittastudi-shots-to-your-drive)
+
+_Note:_ IFTTT Recipes wont grab already posted shots, only new ones. Hurry up, setup your Recipe now...   
+To grab already posted shots use [4K Stogram](https://www.4kdownload.com/products/product-stogram)
 
 
 
