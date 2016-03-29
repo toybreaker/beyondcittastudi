@@ -33,6 +33,7 @@ _via Ampére 2_
 
 **#mappingcittastudi** è il primo dei contest promossi dal Politecnico di Milano in occasione della XXI Triennale di Milano. **E’ un invito a fotografare e condividere su Instagram edifici, angoli, vie, spazi aperti del quartiere Città Studi**, con l’intento di generare una mappa fotografica, viva e reale, della zona. Le foto saranno utilizzate per ricostruire i “#panoramas” di Città Studi così come emersi dal mapping. Partecipazione esclusivamente via Instagram.
 
+<br>
 
 [#ideasforcittastudi](/contest/ideasforcittastudi/)
 ---
@@ -40,24 +41,24 @@ _via Ampére 2_
 
 (1/03-15/06)
 
-**Inviamo chiunque ha documentazione storica** (da archivi, fondazioni, etc.) sul tema progetti e idee per Città Studi a partecipare e condividere inviando via email (manda immagini a [beyond-cittastudi@polimi.it](mailto:beyond-cittastudi@polimi.it)).
+**Invitiamo chiunque ha documentazione storica** (da archivi, fondazioni, etc.) sul tema progetti e idee per Città Studi a partecipare e condividere il materiale, inviandolo via email (manda immagini a [beyond-cittastudi@polimi.it](mailto:beyond-cittastudi@polimi.it)).
 
 
+<br>
 
 [#imaginecittastudi](/contest/imaginecittastudi/)
 ---
 -----
 
-
 (1/03-14/04)
 
 **#ideasforcittastudi è il contest dedicato alla crowd collection di immagini e video prodotti da studenti, docenti e personale tecnico amministrativo del Politecnico di Milano su Città Studi e sul Campus Leonardo**. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo-Archivio di Città Studi a Milano. Partecipazione via Instagram o via eMail (usando gli hashtag forniti dallo specifico contest nel nome dei file e aggiungendo un terzo hashtag: #nomecognomeautore).
 
+<br>
 
 [#lostfuturescittastudi](/contest/lostfuturescittastudi/)
 ---
 -----
-
 
 (30/04-15/06)
 
@@ -70,6 +71,7 @@ Con **#lostfuturescittastudi inviamo chiunque a produrre nuove visioni di Città
 Cartella Stampa
 ---
 -----
+
 PDF [Cartella Stampa Download ](https://drive.google.com/file/d/0By69YP7JrLWya1lIUE04RkxOZDA/view?usp=sharing)
 
 

@@ -9,7 +9,7 @@
 title: Ultra/Beyond Città Studi
 email: beyond-cittastudi@polimi.it
 description: > # this means to ignore newlines until "baseurl:"
-  Crowdsourcing architecture con 4 contests. Parte così Ultra/Beyond Città Studi, 4 aprile > 8 maggio 2016, una delle tre mostre del ciclo Campus &amp; Controcampus, che si tengono, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
+  Crowdsourcing architecture con 4 contests. Parte così Ultra/Beyond Città Studi, 4 aprile > 8 maggio 2016, mostra del ciclo Campus &amp; Controcampus, parte di XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://beyondcittastudi.org" # the base hostname & protocol for your site
 version: 0.1.0

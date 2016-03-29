@@ -53,6 +53,7 @@
 
   font-size: 15px;
   color: $black;
+
 }
 
 .footer_col {
@@ -102,9 +103,13 @@
   }
 }
 
+.about_title,
+.tips a{
+  font-size: 1.75rem;
+}
+
 .tips a,
 a.about_title {
   color: black;
   background-color: $brand_color;
-  border-bottom: 1px solid $brand_color;
 }
