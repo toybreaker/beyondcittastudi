@@ -12,41 +12,50 @@ layout: default
       </header>
 
       <div class="post_content" itemprop="articleBody">
+
         {{ content }}
 
-        {% capture premi %}{% include editables/premi.md %}{% endcapture %}
-        {{ premi | markdownify }}
+        {% if page.premi %}
+          {% capture premi %}{% include editables/premi.md %}{% endcapture %}
+          {{ premi | markdownify }}
+        {% endif %}
 
-        {% capture giuria %}{% include editables/giuria.md %}{% endcapture %}
-        {{ giuria | markdownify }}
+        {% if page.giuria %}
+          {% capture giuria %}{% include editables/giuria.md %}{% endcapture %}
+          {{ giuria | markdownify }}
+        {% endif %}
+
+        {% capture details %}{% include editables/details.md %}{% endcapture %}
+        {{ details | markdownify }}
+
       </div>
 
-      {%if page.pdf_link%}
+      {% if page.pdf_link %}
       <div class="post_footer download">
         {% include svg/pdf.svg %}
         <span>
           <a target="_blank" href="{{page.pdf_link}}">PDF del regolamento</a>
         </span>
       </div>
-      {%endif%}
+      {% endif %}
 
-      {%if page.pdf_link_eng%}
+      {% if page.pdf_link_eng %}
       <div class="post_footer download">
         {% include svg/pdf.svg %}
         <span>
           <a target="_blank" href="{{page.pdf_link_eng}}">PDF english</a>
         </span>
       </div>
-      {%endif%}
+      {% endif %}
 
-      {%if page.insta_feed_link%}
+      {% if page.insta_feed_link %}
       <div class="post_footer go_to_insta">
         {% include svg/eye.svg %}
         <span>
           Vedi foto <a target="_blank" href="{{page.insta_feed_link}}">{{page.title}}</a> su Instagram
         </span>
       </div>
-      {%endif%}
+      {% endif %}
 
 
     </article>

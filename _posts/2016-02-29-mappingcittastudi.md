@@ -8,6 +8,8 @@ pdf_link: http://www.polimi.it/uploads/media/Regolamento_mappingcittastudi_.pdf
 pdf_link_eng: http://www.polimi.it/uploads/media/Rules_to_participate_mappingcittastudi_.pdf
 insta_feed_link: https://www.instagram.com/explore/tags/mappingcittastudi
 contest_is: on
+premi: get
+giuria: get
 ---
 
 

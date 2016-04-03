@@ -7,6 +7,8 @@ categories: contest
 pdf_link: https://drive.google.com/file/d/0By69YP7JrLWyeDdJMmpTQjh6bUk/view?usp=sharing
 insta_feed_link: https://www.instagram.com/explore/tags/ideasforcittastudi
 contest_is: on
+premi: get
+giuria: get
 ---
 
 
