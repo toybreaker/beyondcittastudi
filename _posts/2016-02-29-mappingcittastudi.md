@@ -37,8 +37,8 @@ Chi desideri partecipare al contest #mappingcittastudi dovrà scattare una o pi�
 
 - **#mappingcittastudi**
 
-- **#vianomenumero**  
-un tag che riporta il nome della via e, possibilmente, il numero civico di dove è stata scattata la foto (es: #viabonardi10, #viaceloria40, #viaceloria,...)
+- **#vianomenumero**   
+  che riporta il nome della via e, possibilmente, il numero civico di dove è stata scattata la foto (es: #viabonardi10, #viaceloria40, #viaceloria,...)
 
 Durata
 ---
