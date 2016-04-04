@@ -18,18 +18,23 @@ tl;dr
 > **We invite anyone who has historical documentation (from archives, foundations, etc.) on projects and ideas for Città Studi to share**
 >**Send images to [beyond-cittastudi@polimi.it](mailto:beyond-cittastudi@polimi.it)**
 
-Con **#lostfuturescittastudi** inviamo chiunque a produrre nuove visioni di Città Studi usando come punto di partenza il nostro #panoramascittastudi. Dopo la vostra postproduzione vi invitiamo a caricare le immagini direttamente su Instagram. Useremo le vostre immagini per costruire una collezione di nuovi scenari su Città Studi.
+**#lostfuturescittastudi** (1/03-15/06) è il contest dedicato alla raccolta e condivisione di documenti d’archivio che presentino materiali relativi a progetti su Città Studi che non sono mai diventati realtà. Futuri mai realizzati di cui resta traccia visiva solo nella documentazione cartografica che siamo riusciti a conservare.
 
-Parte di Ultra/Beyond Città Studi, una delle tre mostre del ciclo Campus &amp; Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
+Il contest va di pari passo con Ultra / Beyond Città Studi (4 Aprile – 8 Maggio), una delle tre mostre del ciclo Campus & Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
 
 Partecipare
 ---
 -----
 
-Il contest è aperto a tutti. Il contest è aperto a tutti. Scatta una o più immagini del quartiere Città Studi e condividile su Instagram utilizzando:
+Chi desideri partecipare al contest **#lostfuturescittastudi** dovrà inviare via mail una o più immagini del quartiere Città Studi raccolte da archivi e pubblicazioni storiche utilizzando almeno tre hastag:
 
-- #lostfuturescittastudi
+- **#lostfuturescittastudi**
 
+- **#nomedellavianumerocivico** o **#nomedificio**
+
+- **#nomecognome** (autore del progetto)
+
+Le immagini vanno inviate via email all’indirizzo: [beyond-cittastudi@polimi.it](mailto:beyond-cittastudi@polimi.it)
 
 Durata
 ---
