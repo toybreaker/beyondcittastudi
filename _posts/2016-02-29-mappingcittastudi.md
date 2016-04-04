@@ -33,7 +33,7 @@ Partecipare
 ---
 -----
 Il contest è aperto a tutti.
-Chi desideri partecipare al contest #mappingcittastudi dovrà scattare una o più immagini del quartiere Città Studi e condividerle su Instagram utilizzando i 2 seguenti hastags (nei commenti oppure nella didascalia):
+Chi desideri partecipare al contest #mappingcittastudi dovrà scattare una o più immagini del quartiere Città Studi e condividerle su Instagram utilizzando i 2 seguenti hashtags (nei commenti oppure nella didascalia):
 
 - **#mappingcittastudi**
 

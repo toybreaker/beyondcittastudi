@@ -4,7 +4,7 @@ Premi
 
 Verranno assegnati tre premi a:
 
-- autore che produca il **mapping più completo**, articolato e di qualità (completezza del mapping e qualità delle foto).
+- autore che **produca il mapping più completo, articolato e di qualità** (completezza del mapping e qualità delle foto).
 
 - autore della **foto giudicata migliore** in assoluto.
 

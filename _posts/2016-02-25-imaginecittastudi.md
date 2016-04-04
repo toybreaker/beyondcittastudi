@@ -38,7 +38,7 @@ I nuovi scenari realizzati vanno condivisi su Instagram utilizzando i 2 tag segu
 
 - **#panoramascittastudi** (precedentemente scaricato)
 
-Per la partecipazione via eMail, usare gli hashtag forniti dallo specifico contest nel nome dei file e aggiungere un terzo hashtag **#nomecognomeautore**.
+Per la partecipazione via email, usare gli hashtags forniti dallo specifico contest nel nome dei file e aggiungere un terzo hashtag **#nomecognomeautore**.
 
 Durata
 ---
@@ -53,11 +53,11 @@ Premi
 
 Verranno assegnati tre premi a:
 
-- autore che produca lo scenario più suggestivo, articolato e di qualità (completezza di elementi);
+- autore che **produca lo scenario più suggestivo, articolato e di qualità** (completezza di elementi);
 
-- autore dello scenario più futurista;
+- autore dello **scenario più futurista**;
 
-- autore dello scenario che ottiene più like via Instagram
+- autore dello **scenario che ottiene più like via Instagram**
 
 Ai vincitori sarà assegnato un pass valido per la XXI Triennale di Milano.
 
