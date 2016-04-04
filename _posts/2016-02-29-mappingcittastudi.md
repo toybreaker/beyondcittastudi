@@ -23,17 +23,17 @@ tl;dr
 > **When arriving or leaving, while going to eat to work to play etc., while hanging out, etc.**
 > **We will use your pics to build up a different map of Città Studi**
 
+**#mappingcittastudi** è il primo di una serie di contest promossi dal Politecnico di Milano in occasione della XXI Triennale Esposizione Internazionale Milano 2016. E’ un invito a fotografare e condividere su Instagram edifici, angoli, vie, spazi aperti del quartiere Città Studi, con l’intento di generare una mappa fotografica, viva e reale, della zona.
 
-**#‎mappingcittastudi** è un contest fotografico promosso dal Politecnico di Milano: è un invito a fotografare e condividere su Instagram edifici, angoli, vie, spazi aperti del quartiere Città Studi, con l’intento di generare una mappa fotografica, viva e reale, della zona.
+Il contest va di pari passo con Beyond Città Studi (4 Aprile – 8 Maggio), una delle tre mostre del ciclo Campus e Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano
 
-Parte di Ultra/Beyond Città Studi, una delle tre mostre del ciclo Campus &amp; Controcampus, che si terranno, nell’ambito della XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
 
 
 Partecipare
 ---
 -----
-
-Il contest è aperto a tutti. Scatta una o più immagini del quartiere Città Studi e condividile su Instagram utilizzando almeno due hastags (nei commenti oppure nella didascalia):
+Il contest è aperto a tutti.
+Chi desideri partecipare al contest #mappingcittastudi dovrà scattare una o più immagini del quartiere Città Studi e condividerle su Instagram utilizzando i 2 seguenti hastags (nei commenti oppure nella didascalia):
 
 - **#mappingcittastudi**
 
