@@ -20,7 +20,7 @@ tl;dr
 > **We will use your Imagine to build up a collection of new scenarios on Città Studi.**
 
 
-**#imaginecittàstudi** (30/04-15/06) è uno dei contest promossi dal Politecnico di Milano in occasione della XXI Triennale Esposizione Internazionale Milano 2016 e intende stimolare la creazione di immaginari e scenari per il futuro di **Città Studi** e dei **Campus POLIMI** e **UNIMI**, a partire dai **#panoramascittastudi** ricostruiti grazie al contest **#mappingcittastudi**.
+**#imaginecittastudi** (30/04-15/06) è uno dei contest promossi dal Politecnico di Milano in occasione della XXI Triennale Esposizione Internazionale Milano 2016 e intende stimolare la creazione di immaginari e scenari per il futuro di **Città Studi** e dei **Campus POLIMI** e **UNIMI**, a partire dai **#panoramascittastudi** ricostruiti grazie al contest **#mappingcittastudi**.
 
 Studenti, docenti, personale tecnico amministrativo e semplici cittadini, sono invitati a immaginare trasformazioni creative e suggestive dei luoghi più mappati di Città Studi per costruire un futuro diverso da quello iscritto nelle politiche urbane della città.
 
@@ -30,7 +30,7 @@ Il contest va di pari passo con **Ultra / Beyond Città Studi** (4 Aprile – 8 
 Partecipare
 ---
 -----
-Chi desideri partecipare al contest #imaginecittastudi deve scaricare dalla pagina #panoramascittastudi del sito web www.beyondcittastudi.org le ricostruzioni che ritiene più stimolanti e intervenire sulle immagini per disegnarvi sopra i propri immaginari.
+Chi desideri partecipare al contest #imaginecittastudi deve scaricare dalla pagina #panoramascittastudi del sito  beyondcittastudi.org le ricostruzioni che ritiene più stimolanti e intervenire sulle immagini per disegnarvi sopra i propri immaginari.
 
 I nuovi scenari realizzati vanno condivisi su Instagram utilizzando i 2 tag seguenti:
 
