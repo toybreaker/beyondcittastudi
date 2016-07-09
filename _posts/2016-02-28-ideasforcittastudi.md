@@ -17,7 +17,7 @@ lang: it
 tl;dr
 ---
 
->**We invite anyone who has already worked with projects, design, etc. on Città Studi to share on Instagram her/his scenarios (no technical drawings!).**
+>**We invite anyone who has already worked with projects, design, etc. on Città Studi to share on Instagram her/his scenarios (no the technical drawings!).**
 >**We will use your Ideas to build up a collection of possibilities on Città Studi.**
 
 **#ideasforcittastudi**  (1/03-14/04) è il contest dedicato alla crowd collection di immagini e video prodotti da studenti e docenti del Politecnico di Milano su Città Studi e sul Campus Leonardo. I materiali vanno condivisi attraverso il proprio profilo Instagram (o via email) e andranno a costruire il primo database del Museo-Archivio di Città Studi a Milano.
