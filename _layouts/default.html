@@ -2,12 +2,8 @@
 
 ---
 
-{% assign instafeed_img = '{{image}}' %}
-{% assign instafeed_link = '{{link}}' %}
-{% assign instafeed_likes = '{{likes}}' %}
-{% assign instafeed_caption = '{{caption}}' %}
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
@@ -15,35 +11,13 @@
 
     {% include header.html %}
 
-    <div id="instafeed" class="sucked_shots group">
+    <div class="sucked_shots group">
 
     </div>
 
     {{ content }}
 
     {% include footer.html %}
-
-
-    <script type="text/javascript" src="assets/j/instafeed.min.js"></script>
-
-    <script type="text/javascript">
-      var userFeed = new Instafeed({
-        get: 'user',
-        userId: '{{site.instagram.userId}}',
-        clientId: '{{site.instagram.clientId}}',
-        accessToken: '{{site.instagram.accessToken}}',
-        target: 'instafeed',
-        resolution: 'standard_resolution',
-        links: 'false',
-        sortBy: 'most-liked',
-        limit: '60',
-        template: '<a class="go_away_link {{site.instagram.hash_01}}" href="{{instafeed_link}}"><img src="{{instafeed_img}}" /></a>',
-        filter: function(image) {
-          return image.tags.indexOf('{{site.instagram.hash_01}}') >= 0;
-        }
-        });
-      userFeed.run();
-    </script>
 
     {% include script_ext_link.html %}
     {% include script_google_analytics.html %}

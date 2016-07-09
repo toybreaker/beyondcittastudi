@@ -30,7 +30,7 @@ Il contest va di pari passo con Beyond Città Studi (4 Aprile – 8 Maggio), una
 
 
 
-Partecipare
+Participate
 ---
 -----
 Il contest è aperto a tutti.
@@ -41,7 +41,7 @@ Chi desideri partecipare al contest #mappingcittastudi dovrà scattare una o pi�
 - **#vianomenumero**   
   che riporta il nome della via e, possibilmente, il numero civico di dove è stata scattata la foto (es: #viabonardi10, #viaceloria40, #viaceloria,...)
 
-Durata
+Duration
 ---
 -----
 

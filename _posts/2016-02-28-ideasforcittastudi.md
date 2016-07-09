@@ -24,7 +24,7 @@ tl;dr
 
 Il contest va di pari passo con Ultra / Beyond Città Studi (4 Aprile – 8 Maggio), una delle tre mostre del ciclo Campus & Controcampus, che si terranno, nell’ambito della XXI Triennale di Milano, fino al 12 Settembre presso il Politecnico di Milano.
 
-Partecipare
+Participate
 ---
 -----
 
@@ -42,14 +42,14 @@ Chi non avesse un account Instagram potrà spedire le singole immagini/video via
 
 Nei commenti che accompagnano l’immagine, è importante specificare eventuali altre persone coinvolte nel progetto, eventuale professore/tutor di riferimento, anno di produzione.
 
-Durata
+Duration
 ---
 -----
 
 Il contest _#ideasforcittastudi_ è aperto dal giorno **1 marzo 2016**, saranno considerate per la valutazione da parte della giuria solo le immagini che **entro le 12.00 del 14 aprile 2016** presenteranno gli hashtags specificati.
 
 
-Premi
+Prizes
 ---
 -----
 
@@ -65,7 +65,7 @@ Ai vincitori sarà assegnato un pass valido per la XXI Triennale di Milano.
 
 Le immagini selezionate saranno esposte nell’ambito della serie di mostre Campus & Controcampus, con citazione dell’autore e pubblicate sul sito beyondcittastudi.org e nella futura piattaforma digitale Museo-Archivio di Città Studi.
 
-La giuria è composta da:
+La giuria è composta da / The jury consists of :
 
 - **Gennaro Postiglione**, Politecnico di Milano
 
