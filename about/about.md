@@ -92,12 +92,4 @@ Vedi foto postate con [#ideasforcittastudi ](https://www.instagram.com/explore/t
 
 -----
 
-Vedi foto postate con [#imaginecittastudi ](https://www.instagram.com/explore/tags/imaginecittastudi) su Instagram
-
------
-
-Vedi foto postate con [#lostfuturescittastudi ](https://www.instagram.com/explore/tags/lostfuturescittastudi) su Instagram
-
------
-
 **Profilo Instagram**: @beyondcittastudi
