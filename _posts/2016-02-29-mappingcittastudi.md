@@ -20,7 +20,7 @@ lang: it
 tl;dr
 ---
 
-> **We invite each of you to share on Instagram one or more pics to visualize the Città Studi your live everyday:**
+> **We invite each of you to share on Instagram one or more photos visualizing the Città Studi you live everyday:**
 > **When arriving or leaving, while going to eat, to work, to play, while hanging out, etc.**
 > **We will use your photos to build up a visual map of Città Studi**
 
