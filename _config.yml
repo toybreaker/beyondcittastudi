@@ -1,13 +1,11 @@
-# Welcome to Jekyll!
-
 # Site settings
 title: Ultra/Beyond Città Studi
 email: beyond-cittastudi@polimi.it
 description: > # this means to ignore newlines until "baseurl:"
-  Crowdsourcing architecture con 4 contests. Parte così Ultra/Beyond Città Studi, 4 aprile > 8 maggio 2016, mostra del ciclo Campus &amp; Controcampus, parte di XXI Triennale Esposizione Internazionale Milano 2016, fino al 12 Settembre presso il Politecnico di Milano.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://beyondcittastudi.org" # the base hostname & protocol for your site
-version: 0.1.0
+  Crowdsourcing architecture with photo-contests. Ultra/Beyond&nbsp;Città&nbsp;Studi, april 4 > may 8 2016, is one of the shows of Campus&nbsp;&amp;&nbsp;Controcampus, organized by XXI&nbsp;Triennale Esposizione Internazionale Milano 2016, open until September, 12 @ Politecnico di Milano.
+baseurl: ""
+url: "http://beyondcittastudi.org"
+version: 0.2.0
 
 # Build settings
 markdown: kramdown
@@ -39,21 +37,6 @@ google:
   plus: #username
   analytics: 'UA-74710021-1'
   verify: 'GH4oVo3DLVE-iOQdlqwaeVHCmb40aOrqCHdSNxS_dC8'
-
-
-
-# instuff (same 1plus1return3 - koki - stuff)
-instagram:
-  userId: '1568291819'
-  clientId: '387d80cc65e1414198434cac0666c7d0'
-  accessToken: '1568291819.387d80c.54f7945b8fd9410a9966d9d79f7f7762'
-  hash_01: 'mappingcittastudi'
-  hash_02: 'ideasforcittastudi'
-  hash_03: 'lostfuturescittastudi'
-  hash_04: 'imaginecittastudi'
-  hash_05: 'beyondcittastudi'
-  profilename: '@beyondcittastudi'
-
 
 gems:
   - jekyll-feed
