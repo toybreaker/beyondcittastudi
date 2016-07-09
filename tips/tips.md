@@ -2,6 +2,7 @@
 layout: page
 title: Tips
 permalink: /tips/
+lang: en
 ---
 
 _Help tips to get your quick-started._

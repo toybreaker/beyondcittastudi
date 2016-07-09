@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+lang: it
 ---
 <h1 class="big">Ultra/Beyond Città Studi<br />  
 <small>XXI Triennale di Milano e Politecnico di Milano 2016</small>
@@ -39,34 +40,13 @@ _via Ampére 2_
 ---
 -----
 
-(1/03-15/06)
-
-**Invitiamo chiunque ha documentazione storica** (da archivi, fondazioni, etc.) sul tema progetti e idee per Città Studi a partecipare e condividere il materiale, inviandolo via email (manda immagini a [beyond-cittastudi@polimi.it](mailto:beyond-cittastudi@polimi.it)).
-
-
-<br>
-
-[#imaginecittastudi](/contest/imaginecittastudi/)
----
------
-
 (1/03-14/04)
 
 **#ideasforcittastudi è il contest dedicato alla crowd collection di immagini e video prodotti da studenti, docenti e personale tecnico amministrativo del Politecnico di Milano su Città Studi e sul Campus Leonardo**. I materiali vanno condivisi attraverso il proprio profilo Instagram e andranno a costruire il primo database del Museo-Archivio di Città Studi a Milano. Partecipazione via Instagram o via eMail (usando gli hashtag forniti dallo specifico contest nel nome dei file e aggiungendo un terzo hashtag: #nomecognomeautore).
 
 <br>
 
-[#lostfuturescittastudi](/contest/lostfuturescittastudi/)
----
------
 
-(30/04-15/06)
-
-Con **#lostfuturescittastudi inviamo chiunque a produrre nuove visioni di Città Studi usando come punto di partenza il nostro  #panoramascittastudi.** Dopo la vostra postproduzione vi invitiamo a caricare le immagini direttamente su Instagram. Useremo le vostre immagini per costruire una collezione di nuovi scenari su Città Studi.
-
-
-
-<br>
 
 Cartella Stampa
 ---

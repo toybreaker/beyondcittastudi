@@ -10,6 +10,7 @@ insta_feed_link: https://www.instagram.com/explore/tags/mappingcittastudi
 contest_is: on
 premi: get
 giuria: get
+lang: it
 ---
 
 
