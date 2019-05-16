@@ -36,6 +36,7 @@ google:
   verify: 'GH4oVo3DLVE-iOQdlqwaeVHCmb40aOrqCHdSNxS_dC8'
 
 plugins:
+ - github-pages
  - jekyll-seo-tag
  - jekyll-sitemap
  - html-proofer

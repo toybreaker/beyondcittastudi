@@ -7,13 +7,13 @@
 
   {% include head.html %}
 
-  <body class="{% if page.title %}{{ page.title }}{% endif %}">
+  <body class="{% if page.title %}{{ page.title | slugify}}{% endif %}">
 
     {% include header.html %}
 
-    <div class="sucked_shots group">
+    <!-- <div class="sucked_shots group">
 
-    </div>
+    </div> -->
 
     {{ content }}
 
