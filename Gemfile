@@ -1,6 +1,11 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+ruby RUBY_VERSION
 
-gem 'github-pages', '72', group: :jekyll_plugins
-gem 'jekyll-feed'
 gem 'html-proofer'
-gem 'jekyll-sitemap'
+
+# Jekyll
+gem "jekyll"
+group :jekyll_plugins do
+   gem 'jekyll-sitemap'
+   gem 'jekyll-seo-tag'
+end

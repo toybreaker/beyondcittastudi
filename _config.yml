@@ -4,8 +4,8 @@ email: beyond-cittastudi@polimi.it
 description: > # this means to ignore newlines until "baseurl:"
   Crowdsourcing architecture with photo-contests. Ultra/Beyond&nbsp;Città&nbsp;Studi, april 4 > may 8 2016, is one of the shows of Campus&nbsp;&amp;&nbsp;Controcampus, organized by XXI&nbsp;Triennale Esposizione Internazionale Milano 2016, open until September, 12 @ Politecnico di Milano.
 baseurl: ""
-url: "http://beyondcittastudi.org"
-version: 0.2.0
+url: "http://beyondcittastudi.junglestar.org"
+version: 0.3.0
 
 # Build settings
 markdown: kramdown
@@ -17,12 +17,9 @@ permalink: /:categories/:title/
 exclude:
  - Gemfile
  - Gemfile.lock
- - LICENSEß
- - gulpfile.js
  - package.json
  - DS_Store
  - Icon
- - node_modules
  - .workinprogress
 
 # ship crew personas
@@ -38,8 +35,7 @@ google:
   analytics: 'UA-74710021-1'
   verify: 'GH4oVo3DLVE-iOQdlqwaeVHCmb40aOrqCHdSNxS_dC8'
 
-gems:
-  - jekyll-feed
-  - github-pages
-  - html-proofer
-  - jekyll-sitemap
+plugins:
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - html-proofer
