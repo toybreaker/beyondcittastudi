@@ -2,7 +2,9 @@
 
 CROWDSOURCING ARCHITECTURE CONTEST WEBSITE
 
-DEVELOPED BY [ROKMA](https://rokma.dev) FOR [Politecnico di Milano](https://www.polimi.it/en/)
+# #mappingcittastudi
+
+DEVELOPED BY [ROKMA](https://rokma.dev) FOR [ POLIMI'S GENNARO POSTIGLIONE. (DPT OF ARCHITECTURE & URBAN STUDIES.](https://www.polimi.it/en/search-results?q=GENNARO+POSTIGLIONE&cerca=Search) [Politecnico di Milano](https://www.polimi.it/en/). [SEE PDF](https://www.polimi.it/fileadmin/_migrated/content_uploads/Rules_to_participate_mappingcittastudi_.pdf)
 
 ## WEB DESIGN & DEVELOPMENT
 
@@ -12,7 +14,7 @@ DEVELOPED BY [ROKMA](https://rokma.dev) FOR [Politecnico di Milano](https://www.
 
 
 ### CREDITS:
-Å
+
 - open source website by [JUNGLE★STAR](https://junglestar.org)
 
 - [Smashicons](https://smashicons.com/) via [the noun project](https://thenounproject.com) by [Oliviu Stoian](https://thenounproject.com/oliviustoian/)
