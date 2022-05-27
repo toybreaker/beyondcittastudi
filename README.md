@@ -1,21 +1,24 @@
 # [Ultra/beyond Città Studi](beyondcittastudi.org)
-Crowdsourcing Architecture Contest  website
 
-Developed for [Politecnico di Milano](http://www.polimi.it/en/english-version/)
+CROWDSOURCING ARCHITECTURE CONTEST WEBSITE
 
-## Web design & development
-- rokma [portfolio](https://rokma.com)
-- Gennaro Postiglione [lablog](https://www.lablog.org.uk/)
+DEVELOPED BY [ROKMA](rokma.dev) FOR [Politecnico di Milano](https://www.polimi.it/en/english-version/)
+
+## WEB DESIGN & DEVELOPMENT
+
+- [ROKMA TLDR](https://tldr.rokma.com)
+- [ROKMA Portfolio](https://rokma.com)
+- GENNARO POSTIGLIONE [lablog](https://www.lablog.org.uk/)
 
 
-## Credits:
+### CREDITS:
+Å
+- open source website by [JUNGLE★STAR](https://junglestar.org)
 
-- open source website by [Jungle ★ Star](https://junglestar.org)
-
-- [Smashicons](http://smashicons.com/) via [the noun project](https://thenounproject.com) by [Oliviu Stoian](https://thenounproject.com/oliviustoian/)
+- [Smashicons](https://smashicons.com/) via [the noun project](https://thenounproject.com) by [Oliviu Stoian](https://thenounproject.com/oliviustoian/)
 
 - free [ Open Street Map  ](https://www.openstreetmap.org) vector map
 
 - free [ Stamen Toner-Carto  ](https://github.com/stamen/toner-carto/blob/master/LICENSE) vector map
 
-- conditional media queries mixin by [Sheiko](http://dsheiko.com)
+- conditional media queries mixin by [Sheiko](https://dsheiko.com)

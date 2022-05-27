@@ -3,7 +3,7 @@ _site
 .jekyll-metadata
 __OLD/
 __LAB/
-
+.DS_Store
 __LAB
 ___lab/.DS_Store
 _includes/.DS_Store
