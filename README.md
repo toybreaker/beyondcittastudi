@@ -2,7 +2,7 @@
 
 CROWDSOURCING ARCHITECTURE CONTEST WEBSITE
 
-DEVELOPED BY [ROKMA](rokma.dev) FOR [Politecnico di Milano](https://www.polimi.it/en/english-version/)
+DEVELOPED BY [ROKMA](https://rokma.dev) FOR [Politecnico di Milano](https://www.polimi.it/en/english-version/)
 
 ## WEB DESIGN & DEVELOPMENT
 
